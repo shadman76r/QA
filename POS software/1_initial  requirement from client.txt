@@ -1,0 +1,86 @@
+Background: POS project is to be developed in the way to suit demands of retail business, by providing simple, innovative and cost effective solution. To match these demands POS system should be developed by using Open Source technologies and with minimal hardware requirements which will not affect the performance of whole system. During the development stage of the POS system, hardware which will be required or recommended to run the complete and operational POS should be from famous brands and easily found in the market where the POS system is intended to be distributed. 
+
+Audience(Customers) of POS system: the system will be proposed to customers who are operating in retail and wholesale business with one or many retail shops and warehouses. POS system should be designed in the manner that it will not be requiring more than 15 hours of training to the new POS operators and not more than 30 hours of training to the Administrators/Supervisors users who will be responsible to maintain data entry and daily reports. Thus designing simple and intuitive GUI is essential to meet this criteria. 
+
+
+General requirements to the POS System Development
+
+Functional Requirements to the POS System Development
+
+1)	Initial investment will be added first,
+2)	Add settings,
+a)	Financial year,
+b)	Showroom name,
+c)	Contact details,
+d)	Logo upload,
+e)	Company name,
+3)	Add employee,
+4)	User Role management,
+5)	Add supplier,
+6)	Add product category,
+7)	Add product from supplier,
+8)	While adding the product the costing will be divided into parts like:
+a)	Product costing,
+b)	Carrying costing,
+c)	C&F costing,
+d)	Labour costing,
+e)	Other costing
+
+9)	While adding the product one product will be given and upon that the barcode will be collected/scanned from the product and it will be added to the warehouse,
+10)	There might be damaged product from supplier to warehouse, that should be putted in damaged product in ware house,
+11)	While adding the products the fields are:
+a)	Name,
+b)	Quanity,
+c)	Barcode scanner,
+d)	Buying price and others as above,
+e)	Expiry date,
+f)	Unique order number,
+g)	Order date,
+h)	Supplier name,
+i)	Total price,
+j)	Selling price,
+k)	Minimum selling price,
+l)	Remarks,
+m)	Etc
+
+12)	After adding the product into the warehouse the product is ready to sell
+13)	One product can be added in multiple times from either single or multiple suppliers with different order id. So it should something unique, otherwise the price and expiry date need to managed in a way so that it can be tracked later on.
+14)	After adding the product it will be ready to sell.
+15)	For selling first consumer needs to add. 
+16)	There can be direct sell with consumer or can be whole sell.
+17)	For the consumer maximum filed can be empty and direct sell can be added
+18)	For the whole sell client must need to be have a previous or new id,
+19)	For whole seller there can be branch under whole seller, but the payments will be from only the head office. But branch wise sell report can be shown,
+20)	While selling there can be any discount given by the admin,
+21)	Only product name or barcode scanning and the product will be shown,
+22)	While selling more than one quantity individual discount can be given,
+23)	After selling the product invoice will be generated and can be printed,
+24)	After sell the product can be returned,
+25)	If the product is returned then the product can be automatically in the damaged product and the amount will be deduct from the clients’ payment or can be returned back.
+26)	There can be salary paid from the main accounts or petty cash accounts,
+27)	Daily expense will be there,
+28)	Admin can add any chart of accounts in the charts of account.
+29)	Accounts receivables will be there,
+30)	Search products,
+31)	Product reminders,
+32)	Vat and tax will be added while invoicing and chalan copy,
+33)	Reports:
+a)	Daily sell
+b)	Weekly sell,
+c)	Best sell from any date,
+d)	Last month best sell
+e)	Last month worst sell,
+f)	Daily expense,
+g)	Daily profit,
+h)	Product list,
+i)	Supplier list,
+j)	Supplier due list,
+k)	Supplier invoice list,
+l)	Client list,
+m)	Client due list,
+n)	Client product list,
+o)	Monthly sell report,
+p)	Monthly income,
+q)	Monthly expense,
+r)	More can be added later on.
+Export all the reports in excel and pdf from any date range,
