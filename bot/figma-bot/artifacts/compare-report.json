@@ -1,0 +1,6281 @@
+[
+  {
+    "figmaId": "4:2083",
+    "figmaName": "CS — Ticket System",
+    "text": "CS — Ticket System",
+    "domTag": "div",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 750,
+        "actual": 830.875,
+        "message": "Width mismatch: expected 750px, got 830.875px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 36,
+        "message": "Height mismatch: expected 26px, got 36px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 16,
+        "message": "Font size mismatch: expected 24px, got 16px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:48",
+    "figmaName": "Course Details",
+    "text": "Home",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 45,
+        "actual": 42.890625,
+        "message": "Width mismatch: expected 45px, got 42.890625px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:49",
+    "figmaName": "Blog",
+    "text": "FAQ",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 31,
+        "actual": 29.265625,
+        "message": "Width mismatch: expected 31px, got 29.265625px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:50",
+    "figmaName": "My Classess",
+    "text": "Changelog",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 82,
+        "actual": 76.625,
+        "message": "Width mismatch: expected 82px, got 76.625px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:51",
+    "figmaName": "My Classess",
+    "text": "Blog",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 34,
+        "actual": 31.84375,
+        "message": "Width mismatch: expected 34px, got 31.84375px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:52",
+    "figmaName": "My Classess",
+    "text": "Download",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 76,
+        "actual": 72.03125,
+        "message": "Width mismatch: expected 76px, got 72.03125px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:70",
+    "figmaName": "My Classess",
+    "text": "Contact",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 61,
+        "actual": 54.71875,
+        "message": "Width mismatch: expected 61px, got 54.71875px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:68",
+    "figmaName": "Enroll Now_2",
+    "text": "New Ticket",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"New Ticket\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2227",
+    "figmaName": "In-Progress",
+    "text": "In-Progress",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 129.125,
+        "message": "Width mismatch: expected 628px, got 129.125px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 32,
+        "message": "Height mismatch: expected 26px, got 32px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2226",
+    "figmaName": "0",
+    "text": "0",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 129.125,
+        "message": "Width mismatch: expected 628px, got 129.125px"
+      },
+      {
+        "prop": "height",
+        "expected": 73,
+        "actual": 32,
+        "message": "Height mismatch: expected 73px, got 32px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 60,
+        "actual": 24,
+        "message": "Font size mismatch: expected 60px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:124",
+    "figmaName": "Resolved",
+    "text": "Resolved",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 100.734375,
+        "message": "Width mismatch: expected 628px, got 100.734375px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 32,
+        "message": "Height mismatch: expected 26px, got 32px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:125",
+    "figmaName": "0",
+    "text": "0",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 129.125,
+        "message": "Width mismatch: expected 628px, got 129.125px"
+      },
+      {
+        "prop": "height",
+        "expected": 73,
+        "actual": 32,
+        "message": "Height mismatch: expected 73px, got 32px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 60,
+        "actual": 24,
+        "message": "Font size mismatch: expected 60px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2087",
+    "figmaName": "Customer Tickets",
+    "text": "Customer Tickets",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 1050,
+        "actual": 841,
+        "message": "Width mismatch: expected 1050px, got 841px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 40,
+        "message": "Height mismatch: expected 26px, got 40px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 36,
+        "message": "Font size mismatch: expected 24px, got 36px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2095",
+    "figmaName": "Login Issues - Can't Access Account",
+    "text": "Login Issues - Can't Access Account",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2372",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2097",
+    "figmaName": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still...",
+    "text": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still...",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2374",
+    "figmaName": "#1001",
+    "text": "#1001",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 41,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 41px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2376",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2377",
+    "figmaName": "John Smith",
+    "text": "John Smith",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 75,
+        "actual": 68.4375,
+        "message": "Width mismatch: expected 75px, got 68.4375px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2383",
+    "figmaName": "1/15/2024",
+    "text": "1/15/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2392",
+    "figmaName": "Unable to Download Invoice",
+    "text": "Unable to Download Invoice",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 331,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 331px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2396",
+    "figmaName": "In- Progress",
+    "text": "In- Progress",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"In- Progress\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2398",
+    "figmaName": "Customer cannot download their January invoice from the billing section. The download button is...",
+    "text": "Customer cannot download their January invoice from the billing section. The download button is...",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2400",
+    "figmaName": "#1003",
+    "text": "#1003",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2401",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2406",
+    "figmaName": "Michael Brown",
+    "text": "Michael Brown",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 97,
+        "actual": 91.171875,
+        "message": "Width mismatch: expected 97px, got 91.171875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2410",
+    "figmaName": "1/17/2024",
+    "text": "1/17/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2416",
+    "figmaName": "App Crash on Launch",
+    "text": "App Crash on Launch",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 27,
+        "message": "Height mismatch: expected 22px, got 27px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2420",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2422",
+    "figmaName": "Customer reports that the mobile app crashes immediately upon opening on Android 13.",
+    "text": "Customer reports that the mobile app crashes immediately upon opening on Android 13.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2424",
+    "figmaName": "#1005",
+    "text": "#1005",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2425",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2430",
+    "figmaName": "David Wilson",
+    "text": "David Wilson",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 86,
+        "actual": 81.046875,
+        "message": "Width mismatch: expected 86px, got 81.046875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2434",
+    "figmaName": "1/19/2024",
+    "text": "1/19/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 67,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 67px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2440",
+    "figmaName": "Two-Factor Authentication Issue",
+    "text": "Two-Factor Authentication Issue",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2444",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2446",
+    "figmaName": "Customer is not receiving 2FA codes on their registered phone number.",
+    "text": "Customer is not receiving 2FA codes on their registered phone number.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2448",
+    "figmaName": "#1007",
+    "text": "#1007",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 42px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2449",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2454",
+    "figmaName": "James Anderson",
+    "text": "James Anderson",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 111,
+        "actual": 100.734375,
+        "message": "Width mismatch: expected 111px, got 100.734375px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2458",
+    "figmaName": "1/21/2024",
+    "text": "1/21/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2464",
+    "figmaName": "Subscription Auto-Renewal",
+    "text": "Subscription Auto-Renewal",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 331,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 331px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2468",
+    "figmaName": "In- Progress",
+    "text": "In- Progress",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"In- Progress\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2470",
+    "figmaName": "Customer wants to enable auto-renewal for their subscription but the toggle is disabled.",
+    "text": "Customer wants to enable auto-renewal for their subscription but the toggle is disabled.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2472",
+    "figmaName": "#1009",
+    "text": "#1009",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2473",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2478",
+    "figmaName": "Liam Thomas",
+    "text": "Liam Thomas",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 89,
+        "actual": 81.59375,
+        "message": "Width mismatch: expected 89px, got 81.59375px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2482",
+    "figmaName": "1/17/2024",
+    "text": "1/17/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2731",
+    "figmaName": "Payment Failed - Card Declined",
+    "text": "Payment Failed - Card Declined",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2735",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2737",
+    "figmaName": "Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.",
+    "text": "Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2739",
+    "figmaName": "#1002",
+    "text": "#1002",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2740",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2745",
+    "figmaName": "Sarah Johnson",
+    "text": "Sarah Johnson",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 99,
+        "actual": 89.421875,
+        "message": "Width mismatch: expected 99px, got 89.421875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2749",
+    "figmaName": "1/16/2024",
+    "text": "1/16/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 67,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 67px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2851",
+    "figmaName": "Incorrect Billing Address",
+    "text": "Incorrect Billing Address",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2855",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2857",
+    "figmaName": "Customer’s billing address shows a different city. They updated it but it still displays the old one.",
+    "text": "Customer’s billing address shows a different city. They updated it but it still displays the old one.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2859",
+    "figmaName": "#1004",
+    "text": "#1004",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2860",
+    "figmaName": "LOW PRIORITY",
+    "text": "LOW PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"LOW PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2865",
+    "figmaName": "Emily Davis",
+    "text": "Emily Davis",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 76,
+        "actual": 69.515625,
+        "message": "Width mismatch: expected 76px, got 69.515625px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2869",
+    "figmaName": "1/18/2024",
+    "text": "1/18/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 67,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 67px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2755",
+    "figmaName": "Refund Not Processed",
+    "text": "Refund Not Processed",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 331,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 331px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 27,
+        "message": "Height mismatch: expected 22px, got 27px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2759",
+    "figmaName": "In- Progress",
+    "text": "In- Progress",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"In- Progress\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2761",
+    "figmaName": "Customer requested a refund two weeks ago but has not received the amount yet.",
+    "text": "Customer requested a refund two weeks ago but has not received the amount yet.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2763",
+    "figmaName": "#1006",
+    "text": "#1006",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2764",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2769",
+    "figmaName": "Sophia Taylor",
+    "text": "Sophia Taylor",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 90,
+        "actual": 82.265625,
+        "message": "Width mismatch: expected 90px, got 82.265625px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2773",
+    "figmaName": "1/20/2024",
+    "text": "1/20/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 69,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 69px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2779",
+    "figmaName": "Unable to Update Profile Picture",
+    "text": "Unable to Update Profile Picture",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2783",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2785",
+    "figmaName": "Customer tries to upload a new profile picture but gets 'Upload failed' error.",
+    "text": "Customer tries to upload a new profile picture but gets 'Upload failed' error.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2787",
+    "figmaName": "#1008",
+    "text": "#1008",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2870",
+    "figmaName": "LOW PRIORITY",
+    "text": "LOW PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"LOW PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2793",
+    "figmaName": "Olivia Martinez",
+    "text": "Olivia Martinez",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 99,
+        "actual": 92.671875,
+        "message": "Width mismatch: expected 99px, got 92.671875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2797",
+    "figmaName": "1/22/2024",
+    "text": "1/22/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 68,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 68px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2803",
+    "figmaName": "Missing Order Confirmation Email",
+    "text": "Missing Order Confirmation Email",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2807",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2809",
+    "figmaName": "Customer placed an order but didn't receive a confirmation email even though payment succeeded.",
+    "text": "Customer placed an order but didn't receive a confirmation email even though payment succeeded.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2811",
+    "figmaName": "#1010",
+    "text": "#1010",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 41,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 41px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2873",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "4:2817",
+    "figmaName": "Isabella Garcia",
+    "text": "Isabella Garcia",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 97,
+        "actual": 88.65625,
+        "message": "Width mismatch: expected 97px, got 88.65625px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2821",
+    "figmaName": "1/24/2024",
+    "text": "1/24/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 69,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 69px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:2877",
+    "figmaName": "Task Status",
+    "text": "Task Status",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 358,
+        "actual": 267,
+        "message": "Width mismatch: expected 358px, got 267px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 40,
+        "message": "Height mismatch: expected 26px, got 40px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 36,
+        "message": "Font size mismatch: expected 24px, got 36px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:3123",
+    "figmaName": "Select a ticket to add to Task Status",
+    "text": "Select a ticket to add to Task Status",
+    "domTag": "div",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 358,
+        "actual": 267,
+        "message": "Width mismatch: expected 358px, got 267px"
+      },
+      {
+        "prop": "height",
+        "expected": 18,
+        "actual": 24,
+        "message": "Height mismatch: expected 18px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:3127",
+    "figmaName": "Resolved Task",
+    "text": "Resolved Task",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 358,
+        "actual": 267,
+        "message": "Width mismatch: expected 358px, got 267px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 40,
+        "message": "Height mismatch: expected 26px, got 40px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 36,
+        "message": "Font size mismatch: expected 24px, got 36px"
+      }
+    ]
+  },
+  {
+    "figmaId": "4:3128",
+    "figmaName": "No resolved tasks yet.",
+    "text": "No resolved tasks yet.",
+    "domTag": "div",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 358,
+        "actual": 267,
+        "message": "Width mismatch: expected 358px, got 267px"
+      },
+      {
+        "prop": "height",
+        "expected": 18,
+        "actual": 24,
+        "message": "Height mismatch: expected 18px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:1353",
+    "figmaName": "CS — Ticket System",
+    "text": "CS — Ticket System",
+    "domTag": "div",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 350,
+        "actual": 830.875,
+        "message": "Width mismatch: expected 350px, got 830.875px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 36,
+        "message": "Height mismatch: expected 26px, got 36px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 16,
+        "message": "Font size mismatch: expected 24px, got 16px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:755",
+    "figmaName": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\" from Figma not found on page"
+  },
+  {
+    "figmaId": "41:757",
+    "figmaName": "Company",
+    "text": "Company",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Company\" from Figma not found on page"
+  },
+  {
+    "figmaId": "41:759",
+    "figmaName": "About Us",
+    "text": "About Us",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 71,
+        "actual": 57.53125,
+        "message": "Width mismatch: expected 71px, got 57.53125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:760",
+    "figmaName": "Our Mission",
+    "text": "Our Mission",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 90,
+        "actual": 74.546875,
+        "message": "Width mismatch: expected 90px, got 74.546875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:761",
+    "figmaName": "Contact Saled",
+    "text": "Contact Saled",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 107,
+        "actual": 85.234375,
+        "message": "Width mismatch: expected 107px, got 85.234375px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:763",
+    "figmaName": "Services",
+    "text": "Services",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Services\" from Figma not found on page"
+  },
+  {
+    "figmaId": "41:765",
+    "figmaName": "Products & Services",
+    "text": "Products & Services",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 152,
+        "actual": 122.5625,
+        "message": "Width mismatch: expected 152px, got 122.5625px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:766",
+    "figmaName": "Customer Stories",
+    "text": "Customer Stories",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 132,
+        "actual": 105.015625,
+        "message": "Width mismatch: expected 132px, got 105.015625px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:767",
+    "figmaName": "Download Apps",
+    "text": "Download Apps",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 119,
+        "actual": 98.296875,
+        "message": "Width mismatch: expected 119px, got 98.296875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:1359",
+    "figmaName": "Information",
+    "text": "Information",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Information\" from Figma not found on page"
+  },
+  {
+    "figmaId": "41:1361",
+    "figmaName": "Privacy Policy",
+    "text": "Privacy Policy",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Privacy Policy\" from Figma not found on page"
+  },
+  {
+    "figmaId": "41:1362",
+    "figmaName": "Terms & Conditions",
+    "text": "Terms & Conditions",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 147,
+        "actual": 121.671875,
+        "message": "Width mismatch: expected 147px, got 121.671875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:1363",
+    "figmaName": "Join Us",
+    "text": "Join Us",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 57,
+        "actual": 43.921875,
+        "message": "Width mismatch: expected 57px, got 43.921875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:771",
+    "figmaName": "Social Links",
+    "text": "Social Links",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Social Links\" from Figma not found on page"
+  },
+  {
+    "figmaId": "41:778",
+    "figmaName": "@CS — Ticket System",
+    "text": "@CS — Ticket System",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 170,
+        "actual": 158.078125,
+        "message": "Width mismatch: expected 170px, got 158.078125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:785",
+    "figmaName": "@CS — Ticket System",
+    "text": "@CS — Ticket System",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 170,
+        "actual": 158.078125,
+        "message": "Width mismatch: expected 170px, got 158.078125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:791",
+    "figmaName": "@CS — Ticket System",
+    "text": "@CS — Ticket System",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 170,
+        "actual": 158.078125,
+        "message": "Width mismatch: expected 170px, got 158.078125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:795",
+    "figmaName": "support@cst.com",
+    "text": "support@cst.com",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"support@cst.com\" from Figma not found on page"
+  },
+  {
+    "figmaId": "41:809",
+    "figmaName": "© 2025 CS — Ticket System. All rights reserved.",
+    "text": "© 2025 CS — Ticket System. All rights reserved.",
+    "domTag": "nav",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 44,
+        "message": "Height mismatch: expected 24px, got 44px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:72",
+    "figmaName": "CS — Ticket System",
+    "text": "CS — Ticket System",
+    "domTag": "div",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 750,
+        "actual": 830.875,
+        "message": "Width mismatch: expected 750px, got 830.875px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 36,
+        "message": "Height mismatch: expected 26px, got 36px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 16,
+        "message": "Font size mismatch: expected 24px, got 16px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:74",
+    "figmaName": "Course Details",
+    "text": "Home",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 45,
+        "actual": 42.890625,
+        "message": "Width mismatch: expected 45px, got 42.890625px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:75",
+    "figmaName": "Blog",
+    "text": "FAQ",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 31,
+        "actual": 29.265625,
+        "message": "Width mismatch: expected 31px, got 29.265625px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:76",
+    "figmaName": "My Classess",
+    "text": "Changelog",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 82,
+        "actual": 76.625,
+        "message": "Width mismatch: expected 82px, got 76.625px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:77",
+    "figmaName": "My Classess",
+    "text": "Blog",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 34,
+        "actual": 31.84375,
+        "message": "Width mismatch: expected 34px, got 31.84375px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:78",
+    "figmaName": "My Classess",
+    "text": "Download",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 76,
+        "actual": 72.03125,
+        "message": "Width mismatch: expected 76px, got 72.03125px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:79",
+    "figmaName": "My Classess",
+    "text": "Contact",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 61,
+        "actual": 54.71875,
+        "message": "Width mismatch: expected 61px, got 54.71875px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:83",
+    "figmaName": "Enroll Now_2",
+    "text": "New Ticket",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"New Ticket\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:5",
+    "figmaName": "CS — Ticket System",
+    "text": "CS — Ticket System",
+    "domTag": "div",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 350,
+        "actual": 830.875,
+        "message": "Width mismatch: expected 350px, got 830.875px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 36,
+        "message": "Height mismatch: expected 26px, got 36px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 16,
+        "message": "Font size mismatch: expected 24px, got 16px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:6",
+    "figmaName": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:8",
+    "figmaName": "Company",
+    "text": "Company",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Company\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:10",
+    "figmaName": "About Us",
+    "text": "About Us",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 71,
+        "actual": 57.53125,
+        "message": "Width mismatch: expected 71px, got 57.53125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:11",
+    "figmaName": "Our Mission",
+    "text": "Our Mission",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 90,
+        "actual": 74.546875,
+        "message": "Width mismatch: expected 90px, got 74.546875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:12",
+    "figmaName": "Contact Saled",
+    "text": "Contact Saled",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 107,
+        "actual": 85.234375,
+        "message": "Width mismatch: expected 107px, got 85.234375px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:14",
+    "figmaName": "Services",
+    "text": "Services",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Services\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:16",
+    "figmaName": "Products & Services",
+    "text": "Products & Services",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 152,
+        "actual": 122.5625,
+        "message": "Width mismatch: expected 152px, got 122.5625px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:17",
+    "figmaName": "Customer Stories",
+    "text": "Customer Stories",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 132,
+        "actual": 105.015625,
+        "message": "Width mismatch: expected 132px, got 105.015625px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:18",
+    "figmaName": "Download Apps",
+    "text": "Download Apps",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 119,
+        "actual": 98.296875,
+        "message": "Width mismatch: expected 119px, got 98.296875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:20",
+    "figmaName": "Information",
+    "text": "Information",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Information\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:22",
+    "figmaName": "Privacy Policy",
+    "text": "Privacy Policy",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Privacy Policy\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:23",
+    "figmaName": "Terms & Conditions",
+    "text": "Terms & Conditions",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 147,
+        "actual": 121.671875,
+        "message": "Width mismatch: expected 147px, got 121.671875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:24",
+    "figmaName": "Join Us",
+    "text": "Join Us",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 57,
+        "actual": 43.921875,
+        "message": "Width mismatch: expected 57px, got 43.921875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:26",
+    "figmaName": "Social Links",
+    "text": "Social Links",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Social Links\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:33",
+    "figmaName": "@CS — Ticket System",
+    "text": "@CS — Ticket System",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 170,
+        "actual": 158.078125,
+        "message": "Width mismatch: expected 170px, got 158.078125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:40",
+    "figmaName": "@CS — Ticket System",
+    "text": "@CS — Ticket System",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 170,
+        "actual": 158.078125,
+        "message": "Width mismatch: expected 170px, got 158.078125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:46",
+    "figmaName": "@CS — Ticket System",
+    "text": "@CS — Ticket System",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 170,
+        "actual": 158.078125,
+        "message": "Width mismatch: expected 170px, got 158.078125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:50",
+    "figmaName": "support@cst.com",
+    "text": "support@cst.com",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"support@cst.com\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:53",
+    "figmaName": "© 2025 CS — Ticket System. All rights reserved.",
+    "text": "© 2025 CS — Ticket System. All rights reserved.",
+    "domTag": "nav",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 44,
+        "message": "Height mismatch: expected 24px, got 44px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:142",
+    "figmaName": "In-Progress",
+    "text": "In-Progress",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 129.125,
+        "message": "Width mismatch: expected 628px, got 129.125px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 32,
+        "message": "Height mismatch: expected 26px, got 32px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:143",
+    "figmaName": "0",
+    "text": "0",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 129.125,
+        "message": "Width mismatch: expected 628px, got 129.125px"
+      },
+      {
+        "prop": "height",
+        "expected": 73,
+        "actual": 32,
+        "message": "Height mismatch: expected 73px, got 32px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 60,
+        "actual": 24,
+        "message": "Font size mismatch: expected 60px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:156",
+    "figmaName": "Resolved",
+    "text": "Resolved",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 100.734375,
+        "message": "Width mismatch: expected 628px, got 100.734375px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 32,
+        "message": "Height mismatch: expected 26px, got 32px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:157",
+    "figmaName": "0",
+    "text": "0",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 129.125,
+        "message": "Width mismatch: expected 628px, got 129.125px"
+      },
+      {
+        "prop": "height",
+        "expected": 73,
+        "actual": 32,
+        "message": "Height mismatch: expected 73px, got 32px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 60,
+        "actual": 24,
+        "message": "Font size mismatch: expected 60px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:55",
+    "figmaName": "Customer Tickets",
+    "text": "Customer Tickets",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 1050,
+        "actual": 841,
+        "message": "Width mismatch: expected 1050px, got 841px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 40,
+        "message": "Height mismatch: expected 26px, got 40px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 36,
+        "message": "Font size mismatch: expected 24px, got 36px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:63",
+    "figmaName": "Login Issues - Can't Access Account",
+    "text": "Login Issues - Can't Access Account",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:67",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:69",
+    "figmaName": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still...",
+    "text": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still...",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:71",
+    "figmaName": "#1001",
+    "text": "#1001",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 41,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 41px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:72",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:77",
+    "figmaName": "John Smith",
+    "text": "John Smith",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 75,
+        "actual": 68.4375,
+        "message": "Width mismatch: expected 75px, got 68.4375px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:81",
+    "figmaName": "1/15/2024",
+    "text": "1/15/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:87",
+    "figmaName": "Unable to Download Invoice",
+    "text": "Unable to Download Invoice",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 331,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 331px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:91",
+    "figmaName": "In- Progress",
+    "text": "In- Progress",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"In- Progress\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:93",
+    "figmaName": "Customer cannot download their January invoice from the billing section. The download button is...",
+    "text": "Customer cannot download their January invoice from the billing section. The download button is...",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:95",
+    "figmaName": "#1003",
+    "text": "#1003",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:96",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:101",
+    "figmaName": "Michael Brown",
+    "text": "Michael Brown",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 97,
+        "actual": 91.171875,
+        "message": "Width mismatch: expected 97px, got 91.171875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:105",
+    "figmaName": "1/17/2024",
+    "text": "1/17/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:111",
+    "figmaName": "App Crash on Launch",
+    "text": "App Crash on Launch",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 27,
+        "message": "Height mismatch: expected 22px, got 27px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:115",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:117",
+    "figmaName": "Customer reports that the mobile app crashes immediately upon opening on Android 13.",
+    "text": "Customer reports that the mobile app crashes immediately upon opening on Android 13.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:119",
+    "figmaName": "#1005",
+    "text": "#1005",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:120",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:125",
+    "figmaName": "David Wilson",
+    "text": "David Wilson",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 86,
+        "actual": 81.046875,
+        "message": "Width mismatch: expected 86px, got 81.046875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:129",
+    "figmaName": "1/19/2024",
+    "text": "1/19/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 67,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 67px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:135",
+    "figmaName": "Two-Factor Authentication Issue",
+    "text": "Two-Factor Authentication Issue",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:139",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:141",
+    "figmaName": "Customer is not receiving 2FA codes on their registered phone number.",
+    "text": "Customer is not receiving 2FA codes on their registered phone number.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:143",
+    "figmaName": "#1007",
+    "text": "#1007",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 42px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:144",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:149",
+    "figmaName": "James Anderson",
+    "text": "James Anderson",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 111,
+        "actual": 100.734375,
+        "message": "Width mismatch: expected 111px, got 100.734375px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:153",
+    "figmaName": "1/21/2024",
+    "text": "1/21/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:159",
+    "figmaName": "Subscription Auto-Renewal",
+    "text": "Subscription Auto-Renewal",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 331,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 331px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:163",
+    "figmaName": "In- Progress",
+    "text": "In- Progress",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"In- Progress\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:165",
+    "figmaName": "Customer wants to enable auto-renewal for their subscription but the toggle is disabled.",
+    "text": "Customer wants to enable auto-renewal for their subscription but the toggle is disabled.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:167",
+    "figmaName": "#1009",
+    "text": "#1009",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:168",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:173",
+    "figmaName": "Liam Thomas",
+    "text": "Liam Thomas",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 89,
+        "actual": 81.59375,
+        "message": "Width mismatch: expected 89px, got 81.59375px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:177",
+    "figmaName": "1/17/2024",
+    "text": "1/17/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:184",
+    "figmaName": "Payment Failed - Card Declined",
+    "text": "Payment Failed - Card Declined",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:188",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:190",
+    "figmaName": "Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.",
+    "text": "Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:192",
+    "figmaName": "#1002",
+    "text": "#1002",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:193",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:198",
+    "figmaName": "Sarah Johnson",
+    "text": "Sarah Johnson",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 99,
+        "actual": 89.421875,
+        "message": "Width mismatch: expected 99px, got 89.421875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:202",
+    "figmaName": "1/16/2024",
+    "text": "1/16/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 67,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 67px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:208",
+    "figmaName": "Incorrect Billing Address",
+    "text": "Incorrect Billing Address",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:212",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:214",
+    "figmaName": "Customer’s billing address shows a different city. They updated it but it still displays the old one.",
+    "text": "Customer’s billing address shows a different city. They updated it but it still displays the old one.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:216",
+    "figmaName": "#1004",
+    "text": "#1004",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:217",
+    "figmaName": "LOW PRIORITY",
+    "text": "LOW PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"LOW PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:222",
+    "figmaName": "Emily Davis",
+    "text": "Emily Davis",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 76,
+        "actual": 69.515625,
+        "message": "Width mismatch: expected 76px, got 69.515625px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:226",
+    "figmaName": "1/18/2024",
+    "text": "1/18/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 67,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 67px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:232",
+    "figmaName": "Refund Not Processed",
+    "text": "Refund Not Processed",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 331,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 331px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 27,
+        "message": "Height mismatch: expected 22px, got 27px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:236",
+    "figmaName": "In- Progress",
+    "text": "In- Progress",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"In- Progress\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:238",
+    "figmaName": "Customer requested a refund two weeks ago but has not received the amount yet.",
+    "text": "Customer requested a refund two weeks ago but has not received the amount yet.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:240",
+    "figmaName": "#1006",
+    "text": "#1006",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:241",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:246",
+    "figmaName": "Sophia Taylor",
+    "text": "Sophia Taylor",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 90,
+        "actual": 82.265625,
+        "message": "Width mismatch: expected 90px, got 82.265625px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:250",
+    "figmaName": "1/20/2024",
+    "text": "1/20/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 69,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 69px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:256",
+    "figmaName": "Unable to Update Profile Picture",
+    "text": "Unable to Update Profile Picture",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:260",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:262",
+    "figmaName": "Customer tries to upload a new profile picture but gets 'Upload failed' error.",
+    "text": "Customer tries to upload a new profile picture but gets 'Upload failed' error.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:264",
+    "figmaName": "#1008",
+    "text": "#1008",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:265",
+    "figmaName": "LOW PRIORITY",
+    "text": "LOW PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"LOW PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:270",
+    "figmaName": "Olivia Martinez",
+    "text": "Olivia Martinez",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 99,
+        "actual": 92.671875,
+        "message": "Width mismatch: expected 99px, got 92.671875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:274",
+    "figmaName": "1/22/2024",
+    "text": "1/22/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 68,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 68px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:280",
+    "figmaName": "Missing Order Confirmation Email",
+    "text": "Missing Order Confirmation Email",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:284",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:286",
+    "figmaName": "Customer placed an order but didn't receive a confirmation email even though payment succeeded.",
+    "text": "Customer placed an order but didn't receive a confirmation email even though payment succeeded.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:288",
+    "figmaName": "#1010",
+    "text": "#1010",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 41,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 41px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:289",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:294",
+    "figmaName": "Isabella Garcia",
+    "text": "Isabella Garcia",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 97,
+        "actual": 88.65625,
+        "message": "Width mismatch: expected 97px, got 88.65625px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:298",
+    "figmaName": "1/24/2024",
+    "text": "1/24/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 69,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 69px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:302",
+    "figmaName": "Task Status",
+    "text": "Task Status",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 358,
+        "actual": 267,
+        "message": "Width mismatch: expected 358px, got 267px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 40,
+        "message": "Height mismatch: expected 26px, got 40px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 36,
+        "message": "Font size mismatch: expected 24px, got 36px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:350",
+    "figmaName": "Payment Failed - Card Declined",
+    "text": "Payment Failed - Card Declined",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 326,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 326px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:378",
+    "figmaName": "Enroll Now_2",
+    "text": "Complete",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Complete\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:684",
+    "figmaName": "Incorrect Billing Address",
+    "text": "Incorrect Billing Address",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 326,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 326px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:686",
+    "figmaName": "Enroll Now_2",
+    "text": "Complete",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Complete\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:306",
+    "figmaName": "Resolved Task",
+    "text": "Resolved Task",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 358,
+        "actual": 267,
+        "message": "Width mismatch: expected 358px, got 267px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 40,
+        "message": "Height mismatch: expected 26px, got 40px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 36,
+        "message": "Font size mismatch: expected 24px, got 36px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:307",
+    "figmaName": "No resolved tasks yet.",
+    "text": "No resolved tasks yet.",
+    "domTag": "div",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 358,
+        "actual": 267,
+        "message": "Width mismatch: expected 358px, got 267px"
+      },
+      {
+        "prop": "height",
+        "expected": 18,
+        "actual": 24,
+        "message": "Height mismatch: expected 18px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:86",
+    "figmaName": "CS — Ticket System",
+    "text": "CS — Ticket System",
+    "domTag": "div",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 750,
+        "actual": 830.875,
+        "message": "Width mismatch: expected 750px, got 830.875px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 36,
+        "message": "Height mismatch: expected 26px, got 36px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 16,
+        "message": "Font size mismatch: expected 24px, got 16px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:88",
+    "figmaName": "Course Details",
+    "text": "Home",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 45,
+        "actual": 42.890625,
+        "message": "Width mismatch: expected 45px, got 42.890625px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:89",
+    "figmaName": "Blog",
+    "text": "FAQ",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 31,
+        "actual": 29.265625,
+        "message": "Width mismatch: expected 31px, got 29.265625px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:90",
+    "figmaName": "My Classess",
+    "text": "Changelog",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 82,
+        "actual": 76.625,
+        "message": "Width mismatch: expected 82px, got 76.625px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:91",
+    "figmaName": "My Classess",
+    "text": "Blog",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 34,
+        "actual": 31.84375,
+        "message": "Width mismatch: expected 34px, got 31.84375px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:92",
+    "figmaName": "My Classess",
+    "text": "Download",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 76,
+        "actual": 72.03125,
+        "message": "Width mismatch: expected 76px, got 72.03125px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:93",
+    "figmaName": "My Classess",
+    "text": "Contact",
+    "domTag": "button",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 61,
+        "actual": 54.71875,
+        "message": "Width mismatch: expected 61px, got 54.71875px"
+      }
+    ]
+  },
+  {
+    "figmaId": "41:97",
+    "figmaName": "Enroll Now_2",
+    "text": "New Ticket",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"New Ticket\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:57",
+    "figmaName": "CS — Ticket System",
+    "text": "CS — Ticket System",
+    "domTag": "div",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 350,
+        "actual": 830.875,
+        "message": "Width mismatch: expected 350px, got 830.875px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 36,
+        "message": "Height mismatch: expected 26px, got 36px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 16,
+        "message": "Font size mismatch: expected 24px, got 16px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:58",
+    "figmaName": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:60",
+    "figmaName": "Company",
+    "text": "Company",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Company\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:62",
+    "figmaName": "About Us",
+    "text": "About Us",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 71,
+        "actual": 57.53125,
+        "message": "Width mismatch: expected 71px, got 57.53125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:63",
+    "figmaName": "Our Mission",
+    "text": "Our Mission",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 90,
+        "actual": 74.546875,
+        "message": "Width mismatch: expected 90px, got 74.546875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:64",
+    "figmaName": "Contact Saled",
+    "text": "Contact Saled",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 107,
+        "actual": 85.234375,
+        "message": "Width mismatch: expected 107px, got 85.234375px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:66",
+    "figmaName": "Services",
+    "text": "Services",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Services\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:68",
+    "figmaName": "Products & Services",
+    "text": "Products & Services",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 152,
+        "actual": 122.5625,
+        "message": "Width mismatch: expected 152px, got 122.5625px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:69",
+    "figmaName": "Customer Stories",
+    "text": "Customer Stories",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 132,
+        "actual": 105.015625,
+        "message": "Width mismatch: expected 132px, got 105.015625px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:70",
+    "figmaName": "Download Apps",
+    "text": "Download Apps",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 119,
+        "actual": 98.296875,
+        "message": "Width mismatch: expected 119px, got 98.296875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:72",
+    "figmaName": "Information",
+    "text": "Information",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Information\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:74",
+    "figmaName": "Privacy Policy",
+    "text": "Privacy Policy",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Privacy Policy\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:75",
+    "figmaName": "Terms & Conditions",
+    "text": "Terms & Conditions",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 147,
+        "actual": 121.671875,
+        "message": "Width mismatch: expected 147px, got 121.671875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:76",
+    "figmaName": "Join Us",
+    "text": "Join Us",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 57,
+        "actual": 43.921875,
+        "message": "Width mismatch: expected 57px, got 43.921875px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:78",
+    "figmaName": "Social Links",
+    "text": "Social Links",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Social Links\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:85",
+    "figmaName": "@CS — Ticket System",
+    "text": "@CS — Ticket System",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 170,
+        "actual": 158.078125,
+        "message": "Width mismatch: expected 170px, got 158.078125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:92",
+    "figmaName": "@CS — Ticket System",
+    "text": "@CS — Ticket System",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 170,
+        "actual": 158.078125,
+        "message": "Width mismatch: expected 170px, got 158.078125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:98",
+    "figmaName": "@CS — Ticket System",
+    "text": "@CS — Ticket System",
+    "domTag": "a",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 170,
+        "actual": 158.078125,
+        "message": "Width mismatch: expected 170px, got 158.078125px"
+      },
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 20,
+        "message": "Height mismatch: expected 24px, got 20px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:102",
+    "figmaName": "support@cst.com",
+    "text": "support@cst.com",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"support@cst.com\" from Figma not found on page"
+  },
+  {
+    "figmaId": "42:105",
+    "figmaName": "© 2025 CS — Ticket System. All rights reserved.",
+    "text": "© 2025 CS — Ticket System. All rights reserved.",
+    "domTag": "nav",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "height",
+        "expected": 24,
+        "actual": 44,
+        "message": "Height mismatch: expected 24px, got 44px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:174",
+    "figmaName": "In-Progress",
+    "text": "In-Progress",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 129.125,
+        "message": "Width mismatch: expected 628px, got 129.125px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 32,
+        "message": "Height mismatch: expected 26px, got 32px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:175",
+    "figmaName": "0",
+    "text": "0",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 129.125,
+        "message": "Width mismatch: expected 628px, got 129.125px"
+      },
+      {
+        "prop": "height",
+        "expected": 73,
+        "actual": 32,
+        "message": "Height mismatch: expected 73px, got 32px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 60,
+        "actual": 24,
+        "message": "Font size mismatch: expected 60px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:188",
+    "figmaName": "Resolved",
+    "text": "Resolved",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 100.734375,
+        "message": "Width mismatch: expected 628px, got 100.734375px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 32,
+        "message": "Height mismatch: expected 26px, got 32px"
+      }
+    ]
+  },
+  {
+    "figmaId": "42:189",
+    "figmaName": "0",
+    "text": "0",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 628,
+        "actual": 129.125,
+        "message": "Width mismatch: expected 628px, got 129.125px"
+      },
+      {
+        "prop": "height",
+        "expected": 73,
+        "actual": 32,
+        "message": "Height mismatch: expected 73px, got 32px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 60,
+        "actual": 24,
+        "message": "Font size mismatch: expected 60px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:391",
+    "figmaName": "Customer Tickets",
+    "text": "Customer Tickets",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 1050,
+        "actual": 841,
+        "message": "Width mismatch: expected 1050px, got 841px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 40,
+        "message": "Height mismatch: expected 26px, got 40px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 36,
+        "message": "Font size mismatch: expected 24px, got 36px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:399",
+    "figmaName": "Login Issues - Can't Access Account",
+    "text": "Login Issues - Can't Access Account",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:403",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:405",
+    "figmaName": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still...",
+    "text": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still...",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:407",
+    "figmaName": "#1001",
+    "text": "#1001",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 41,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 41px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:408",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:413",
+    "figmaName": "John Smith",
+    "text": "John Smith",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 75,
+        "actual": 68.4375,
+        "message": "Width mismatch: expected 75px, got 68.4375px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:417",
+    "figmaName": "1/15/2024",
+    "text": "1/15/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:423",
+    "figmaName": "Unable to Download Invoice",
+    "text": "Unable to Download Invoice",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 331,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 331px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:427",
+    "figmaName": "In- Progress",
+    "text": "In- Progress",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"In- Progress\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:429",
+    "figmaName": "Customer cannot download their January invoice from the billing section. The download button is...",
+    "text": "Customer cannot download their January invoice from the billing section. The download button is...",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:431",
+    "figmaName": "#1003",
+    "text": "#1003",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:432",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:437",
+    "figmaName": "Michael Brown",
+    "text": "Michael Brown",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 97,
+        "actual": 91.171875,
+        "message": "Width mismatch: expected 97px, got 91.171875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:441",
+    "figmaName": "1/17/2024",
+    "text": "1/17/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:447",
+    "figmaName": "App Crash on Launch",
+    "text": "App Crash on Launch",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 27,
+        "message": "Height mismatch: expected 22px, got 27px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:451",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:453",
+    "figmaName": "Customer reports that the mobile app crashes immediately upon opening on Android 13.",
+    "text": "Customer reports that the mobile app crashes immediately upon opening on Android 13.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:455",
+    "figmaName": "#1005",
+    "text": "#1005",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:456",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:461",
+    "figmaName": "David Wilson",
+    "text": "David Wilson",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 86,
+        "actual": 81.046875,
+        "message": "Width mismatch: expected 86px, got 81.046875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:465",
+    "figmaName": "1/19/2024",
+    "text": "1/19/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 67,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 67px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:471",
+    "figmaName": "Two-Factor Authentication Issue",
+    "text": "Two-Factor Authentication Issue",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:475",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:477",
+    "figmaName": "Customer is not receiving 2FA codes on their registered phone number.",
+    "text": "Customer is not receiving 2FA codes on their registered phone number.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:479",
+    "figmaName": "#1007",
+    "text": "#1007",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 42px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:480",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:485",
+    "figmaName": "James Anderson",
+    "text": "James Anderson",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 111,
+        "actual": 100.734375,
+        "message": "Width mismatch: expected 111px, got 100.734375px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:489",
+    "figmaName": "1/21/2024",
+    "text": "1/21/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:495",
+    "figmaName": "Subscription Auto-Renewal",
+    "text": "Subscription Auto-Renewal",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 331,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 331px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:499",
+    "figmaName": "In- Progress",
+    "text": "In- Progress",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"In- Progress\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:501",
+    "figmaName": "Customer wants to enable auto-renewal for their subscription but the toggle is disabled.",
+    "text": "Customer wants to enable auto-renewal for their subscription but the toggle is disabled.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:503",
+    "figmaName": "#1009",
+    "text": "#1009",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:504",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:509",
+    "figmaName": "Liam Thomas",
+    "text": "Liam Thomas",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 89,
+        "actual": 81.59375,
+        "message": "Width mismatch: expected 89px, got 81.59375px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:513",
+    "figmaName": "1/17/2024",
+    "text": "1/17/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 66,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 66px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:520",
+    "figmaName": "Payment Failed - Card Declined",
+    "text": "Payment Failed - Card Declined",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:524",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:526",
+    "figmaName": "Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.",
+    "text": "Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:528",
+    "figmaName": "#1002",
+    "text": "#1002",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:529",
+    "figmaName": "HIGH PRIORITY",
+    "text": "HIGH PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"HIGH PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:534",
+    "figmaName": "Sarah Johnson",
+    "text": "Sarah Johnson",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 99,
+        "actual": 89.421875,
+        "message": "Width mismatch: expected 99px, got 89.421875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:538",
+    "figmaName": "1/16/2024",
+    "text": "1/16/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 67,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 67px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:544",
+    "figmaName": "Incorrect Billing Address",
+    "text": "Incorrect Billing Address",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:548",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:550",
+    "figmaName": "Customer’s billing address shows a different city. They updated it but it still displays the old one.",
+    "text": "Customer’s billing address shows a different city. They updated it but it still displays the old one.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:552",
+    "figmaName": "#1004",
+    "text": "#1004",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:553",
+    "figmaName": "LOW PRIORITY",
+    "text": "LOW PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"LOW PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:558",
+    "figmaName": "Emily Davis",
+    "text": "Emily Davis",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 76,
+        "actual": 69.515625,
+        "message": "Width mismatch: expected 76px, got 69.515625px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:562",
+    "figmaName": "1/18/2024",
+    "text": "1/18/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 67,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 67px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:568",
+    "figmaName": "Refund Not Processed",
+    "text": "Refund Not Processed",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 331,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 331px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 27,
+        "message": "Height mismatch: expected 22px, got 27px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:572",
+    "figmaName": "In- Progress",
+    "text": "In- Progress",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"In- Progress\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:574",
+    "figmaName": "Customer requested a refund two weeks ago but has not received the amount yet.",
+    "text": "Customer requested a refund two weeks ago but has not received the amount yet.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:576",
+    "figmaName": "#1006",
+    "text": "#1006",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:577",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:582",
+    "figmaName": "Sophia Taylor",
+    "text": "Sophia Taylor",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 90,
+        "actual": 82.265625,
+        "message": "Width mismatch: expected 90px, got 82.265625px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:586",
+    "figmaName": "1/20/2024",
+    "text": "1/20/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 69,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 69px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:592",
+    "figmaName": "Unable to Update Profile Picture",
+    "text": "Unable to Update Profile Picture",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:596",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:598",
+    "figmaName": "Customer tries to upload a new profile picture but gets 'Upload failed' error.",
+    "text": "Customer tries to upload a new profile picture but gets 'Upload failed' error.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:600",
+    "figmaName": "#1008",
+    "text": "#1008",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 43,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 43px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:601",
+    "figmaName": "LOW PRIORITY",
+    "text": "LOW PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"LOW PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:606",
+    "figmaName": "Olivia Martinez",
+    "text": "Olivia Martinez",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 99,
+        "actual": 92.671875,
+        "message": "Width mismatch: expected 99px, got 92.671875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:610",
+    "figmaName": "1/22/2024",
+    "text": "1/22/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 68,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 68px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:616",
+    "figmaName": "Missing Order Confirmation Email",
+    "text": "Missing Order Confirmation Email",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 383,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 383px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:620",
+    "figmaName": "Open",
+    "text": "Open",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 42,
+        "actual": 58.03125,
+        "message": "Width mismatch: expected 42px, got 58.03125px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:622",
+    "figmaName": "Customer placed an order but didn't receive a confirmation email even though payment succeeded.",
+    "text": "Customer placed an order but didn't receive a confirmation email even though payment succeeded.",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 481,
+        "actual": 364.5,
+        "message": "Width mismatch: expected 481px, got 364.5px"
+      },
+      {
+        "prop": "height",
+        "expected": 36,
+        "actual": 42,
+        "message": "Height mismatch: expected 36px, got 42px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 16,
+        "actual": 14,
+        "message": "Font size mismatch: expected 16px, got 14px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:624",
+    "figmaName": "#1010",
+    "text": "#1010",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 41,
+        "actual": 38.46875,
+        "message": "Width mismatch: expected 41px, got 38.46875px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:625",
+    "figmaName": "MEDIUM PRIORITY",
+    "text": "MEDIUM PRIORITY",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"MEDIUM PRIORITY\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:630",
+    "figmaName": "Isabella Garcia",
+    "text": "Isabella Garcia",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 97,
+        "actual": 88.65625,
+        "message": "Width mismatch: expected 97px, got 88.65625px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:634",
+    "figmaName": "1/24/2024",
+    "text": "1/24/2024",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 69,
+        "actual": 95.75,
+        "message": "Width mismatch: expected 69px, got 95.75px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 24,
+        "message": "Height mismatch: expected 22px, got 24px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:638",
+    "figmaName": "Task Status",
+    "text": "Task Status",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 358,
+        "actual": 267,
+        "message": "Width mismatch: expected 358px, got 267px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 40,
+        "message": "Height mismatch: expected 26px, got 40px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 36,
+        "message": "Font size mismatch: expected 24px, got 36px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:644",
+    "figmaName": "Payment Failed - Card Declined",
+    "text": "Payment Failed - Card Declined",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 326,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 326px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:646",
+    "figmaName": "Enroll Now_2",
+    "text": "Complete",
+    "status": "MISSING_IN_DOM",
+    "message": "Text \"Complete\" from Figma not found on page"
+  },
+  {
+    "figmaId": "5:662",
+    "figmaName": "Resolved Task",
+    "text": "Resolved Task",
+    "domTag": "p",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 358,
+        "actual": 267,
+        "message": "Width mismatch: expected 358px, got 267px"
+      },
+      {
+        "prop": "height",
+        "expected": 26,
+        "actual": 40,
+        "message": "Height mismatch: expected 26px, got 40px"
+      },
+      {
+        "prop": "fontSize",
+        "expected": 24,
+        "actual": 36,
+        "message": "Font size mismatch: expected 24px, got 36px"
+      }
+    ]
+  },
+  {
+    "figmaId": "5:668",
+    "figmaName": "Incorrect Billing Address",
+    "text": "Incorrect Billing Address",
+    "domTag": "h2",
+    "status": "DIFFERENT",
+    "issues": [
+      {
+        "prop": "width",
+        "expected": 326,
+        "actual": 182.25,
+        "message": "Width mismatch: expected 326px, got 182.25px"
+      },
+      {
+        "prop": "height",
+        "expected": 22,
+        "actual": 54,
+        "message": "Height mismatch: expected 22px, got 54px"
+      }
+    ]
+  }
+]

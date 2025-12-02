@@ -1,0 +1,648 @@
+Status,FigmaText,FigmaName,FigmaId,DomTag,IssueProp,Expected,Actual,IssueMessage,ScreenshotPath
+DIFFERENT,CS — Ticket System,CS — Ticket System,4:2083,div,width,750,830.875,"Width mismatch: expected 750px, got 830.875px",artifacts/issue-shots/issue-4-2083.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,4:2083,div,height,26,36,"Height mismatch: expected 26px, got 36px",artifacts/issue-shots/issue-4-2083.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,4:2083,div,fontSize,24,16,"Font size mismatch: expected 24px, got 16px",artifacts/issue-shots/issue-4-2083.png
+DIFFERENT,Home,Course Details,41:48,button,width,45,42.890625,"Width mismatch: expected 45px, got 42.890625px",artifacts/issue-shots/issue-41-48.png
+DIFFERENT,FAQ,Blog,41:49,button,width,31,29.265625,"Width mismatch: expected 31px, got 29.265625px",artifacts/issue-shots/issue-41-49.png
+DIFFERENT,Changelog,My Classess,41:50,button,width,82,76.625,"Width mismatch: expected 82px, got 76.625px",artifacts/issue-shots/issue-41-50.png
+DIFFERENT,Blog,My Classess,41:51,button,width,34,31.84375,"Width mismatch: expected 34px, got 31.84375px",artifacts/issue-shots/issue-41-51.png
+DIFFERENT,Download,My Classess,41:52,button,width,76,72.03125,"Width mismatch: expected 76px, got 72.03125px",artifacts/issue-shots/issue-41-52.png
+DIFFERENT,Contact,My Classess,41:70,button,width,61,54.71875,"Width mismatch: expected 61px, got 54.71875px",artifacts/issue-shots/issue-41-70.png
+MISSING_IN_DOM,New Ticket,Enroll Now_2,41:68,,,,,Text exists in Figma but not found on page,
+DIFFERENT,In-Progress,In-Progress,4:2227,p,width,628,129.125,"Width mismatch: expected 628px, got 129.125px",artifacts/issue-shots/issue-4-2227.png
+DIFFERENT,In-Progress,In-Progress,4:2227,p,height,26,32,"Height mismatch: expected 26px, got 32px",artifacts/issue-shots/issue-4-2227.png
+DIFFERENT,0,0,4:2226,p,width,628,129.125,"Width mismatch: expected 628px, got 129.125px",artifacts/issue-shots/issue-4-2226.png
+DIFFERENT,0,0,4:2226,p,height,73,32,"Height mismatch: expected 73px, got 32px",artifacts/issue-shots/issue-4-2226.png
+DIFFERENT,0,0,4:2226,p,fontSize,60,24,"Font size mismatch: expected 60px, got 24px",artifacts/issue-shots/issue-4-2226.png
+DIFFERENT,Resolved,Resolved,42:124,p,width,628,100.734375,"Width mismatch: expected 628px, got 100.734375px",artifacts/issue-shots/issue-42-124.png
+DIFFERENT,Resolved,Resolved,42:124,p,height,26,32,"Height mismatch: expected 26px, got 32px",artifacts/issue-shots/issue-42-124.png
+DIFFERENT,0,0,42:125,p,width,628,129.125,"Width mismatch: expected 628px, got 129.125px",artifacts/issue-shots/issue-42-125.png
+DIFFERENT,0,0,42:125,p,height,73,32,"Height mismatch: expected 73px, got 32px",artifacts/issue-shots/issue-42-125.png
+DIFFERENT,0,0,42:125,p,fontSize,60,24,"Font size mismatch: expected 60px, got 24px",artifacts/issue-shots/issue-42-125.png
+DIFFERENT,Customer Tickets,Customer Tickets,4:2087,p,width,1050,841,"Width mismatch: expected 1050px, got 841px",artifacts/issue-shots/issue-4-2087.png
+DIFFERENT,Customer Tickets,Customer Tickets,4:2087,p,height,26,40,"Height mismatch: expected 26px, got 40px",artifacts/issue-shots/issue-4-2087.png
+DIFFERENT,Customer Tickets,Customer Tickets,4:2087,p,fontSize,24,36,"Font size mismatch: expected 24px, got 36px",artifacts/issue-shots/issue-4-2087.png
+DIFFERENT,Login Issues - Can't Access Account,Login Issues - Can't Access Account,4:2095,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Login Issues - Can't Access Account,Login Issues - Can't Access Account,4:2095,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,4:2372,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-4-2372.png
+DIFFERENT,Open,Open,4:2372,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2372.png
+DIFFERENT,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,4:2097,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-4-2097.png
+DIFFERENT,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,4:2097,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-4-2097.png
+DIFFERENT,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,4:2097,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2097.png
+DIFFERENT,#1001,#1001,4:2374,p,width,41,38.46875,"Width mismatch: expected 41px, got 38.46875px",artifacts/issue-shots/issue-4-2374.png
+DIFFERENT,#1001,#1001,4:2374,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2374.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,4:2376,,,,,Text exists in Figma but not found on page,
+DIFFERENT,John Smith,John Smith,4:2377,p,width,75,68.4375,"Width mismatch: expected 75px, got 68.4375px",artifacts/issue-shots/issue-4-2377.png
+DIFFERENT,John Smith,John Smith,4:2377,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2377.png
+DIFFERENT,1/15/2024,1/15/2024,4:2383,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-4-2383.png
+DIFFERENT,1/15/2024,1/15/2024,4:2383,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2383.png
+DIFFERENT,Unable to Download Invoice,Unable to Download Invoice,4:2392,h2,width,331,182.25,"Width mismatch: expected 331px, got 182.25px",
+DIFFERENT,Unable to Download Invoice,Unable to Download Invoice,4:2392,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+MISSING_IN_DOM,In- Progress,In- Progress,4:2396,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Customer cannot download their January invoice from the billing section. The download button is...,Customer cannot download their January invoice from the billing section. The download button is...,4:2398,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-4-2398.png
+DIFFERENT,Customer cannot download their January invoice from the billing section. The download button is...,Customer cannot download their January invoice from the billing section. The download button is...,4:2398,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-4-2398.png
+DIFFERENT,Customer cannot download their January invoice from the billing section. The download button is...,Customer cannot download their January invoice from the billing section. The download button is...,4:2398,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2398.png
+DIFFERENT,#1003,#1003,4:2400,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-4-2400.png
+DIFFERENT,#1003,#1003,4:2400,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2400.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,4:2401,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Michael Brown,Michael Brown,4:2406,p,width,97,91.171875,"Width mismatch: expected 97px, got 91.171875px",artifacts/issue-shots/issue-4-2406.png
+DIFFERENT,Michael Brown,Michael Brown,4:2406,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2406.png
+DIFFERENT,1/17/2024,1/17/2024,4:2410,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-4-2410.png
+DIFFERENT,1/17/2024,1/17/2024,4:2410,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2410.png
+DIFFERENT,App Crash on Launch,App Crash on Launch,4:2416,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,App Crash on Launch,App Crash on Launch,4:2416,h2,height,22,27,"Height mismatch: expected 22px, got 27px",
+DIFFERENT,Open,Open,4:2420,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-4-2420.png
+DIFFERENT,Open,Open,4:2420,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2420.png
+DIFFERENT,Customer reports that the mobile app crashes immediately upon opening on Android 13.,Customer reports that the mobile app crashes immediately upon opening on Android 13.,4:2422,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-4-2422.png
+DIFFERENT,Customer reports that the mobile app crashes immediately upon opening on Android 13.,Customer reports that the mobile app crashes immediately upon opening on Android 13.,4:2422,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-4-2422.png
+DIFFERENT,Customer reports that the mobile app crashes immediately upon opening on Android 13.,Customer reports that the mobile app crashes immediately upon opening on Android 13.,4:2422,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2422.png
+DIFFERENT,#1005,#1005,4:2424,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-4-2424.png
+DIFFERENT,#1005,#1005,4:2424,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2424.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,4:2425,,,,,Text exists in Figma but not found on page,
+DIFFERENT,David Wilson,David Wilson,4:2430,p,width,86,81.046875,"Width mismatch: expected 86px, got 81.046875px",artifacts/issue-shots/issue-4-2430.png
+DIFFERENT,David Wilson,David Wilson,4:2430,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2430.png
+DIFFERENT,1/19/2024,1/19/2024,4:2434,p,width,67,95.75,"Width mismatch: expected 67px, got 95.75px",artifacts/issue-shots/issue-4-2434.png
+DIFFERENT,1/19/2024,1/19/2024,4:2434,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2434.png
+DIFFERENT,Two-Factor Authentication Issue,Two-Factor Authentication Issue,4:2440,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Two-Factor Authentication Issue,Two-Factor Authentication Issue,4:2440,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,4:2444,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-4-2444.png
+DIFFERENT,Open,Open,4:2444,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2444.png
+DIFFERENT,Customer is not receiving 2FA codes on their registered phone number.,Customer is not receiving 2FA codes on their registered phone number.,4:2446,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-4-2446.png
+DIFFERENT,Customer is not receiving 2FA codes on their registered phone number.,Customer is not receiving 2FA codes on their registered phone number.,4:2446,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-4-2446.png
+DIFFERENT,Customer is not receiving 2FA codes on their registered phone number.,Customer is not receiving 2FA codes on their registered phone number.,4:2446,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2446.png
+DIFFERENT,#1007,#1007,4:2448,p,width,42,38.46875,"Width mismatch: expected 42px, got 38.46875px",artifacts/issue-shots/issue-4-2448.png
+DIFFERENT,#1007,#1007,4:2448,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2448.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,4:2449,,,,,Text exists in Figma but not found on page,
+DIFFERENT,James Anderson,James Anderson,4:2454,p,width,111,100.734375,"Width mismatch: expected 111px, got 100.734375px",artifacts/issue-shots/issue-4-2454.png
+DIFFERENT,James Anderson,James Anderson,4:2454,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2454.png
+DIFFERENT,1/21/2024,1/21/2024,4:2458,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-4-2458.png
+DIFFERENT,1/21/2024,1/21/2024,4:2458,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2458.png
+DIFFERENT,Subscription Auto-Renewal,Subscription Auto-Renewal,4:2464,h2,width,331,182.25,"Width mismatch: expected 331px, got 182.25px",
+DIFFERENT,Subscription Auto-Renewal,Subscription Auto-Renewal,4:2464,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+MISSING_IN_DOM,In- Progress,In- Progress,4:2468,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,4:2470,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-4-2470.png
+DIFFERENT,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,4:2470,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-4-2470.png
+DIFFERENT,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,4:2470,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2470.png
+DIFFERENT,#1009,#1009,4:2472,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-4-2472.png
+DIFFERENT,#1009,#1009,4:2472,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2472.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,4:2473,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Liam Thomas,Liam Thomas,4:2478,p,width,89,81.59375,"Width mismatch: expected 89px, got 81.59375px",artifacts/issue-shots/issue-4-2478.png
+DIFFERENT,Liam Thomas,Liam Thomas,4:2478,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2478.png
+DIFFERENT,1/17/2024,1/17/2024,4:2482,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-4-2482.png
+DIFFERENT,1/17/2024,1/17/2024,4:2482,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2482.png
+DIFFERENT,Payment Failed - Card Declined,Payment Failed - Card Declined,4:2731,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Payment Failed - Card Declined,Payment Failed - Card Declined,4:2731,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,4:2735,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-4-2735.png
+DIFFERENT,Open,Open,4:2735,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2735.png
+DIFFERENT,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,4:2737,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-4-2737.png
+DIFFERENT,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,4:2737,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-4-2737.png
+DIFFERENT,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,4:2737,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2737.png
+DIFFERENT,#1002,#1002,4:2739,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-4-2739.png
+DIFFERENT,#1002,#1002,4:2739,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2739.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,4:2740,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Sarah Johnson,Sarah Johnson,4:2745,p,width,99,89.421875,"Width mismatch: expected 99px, got 89.421875px",artifacts/issue-shots/issue-4-2745.png
+DIFFERENT,Sarah Johnson,Sarah Johnson,4:2745,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2745.png
+DIFFERENT,1/16/2024,1/16/2024,4:2749,p,width,67,95.75,"Width mismatch: expected 67px, got 95.75px",artifacts/issue-shots/issue-4-2749.png
+DIFFERENT,1/16/2024,1/16/2024,4:2749,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2749.png
+DIFFERENT,Incorrect Billing Address,Incorrect Billing Address,4:2851,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Incorrect Billing Address,Incorrect Billing Address,4:2851,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,4:2855,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-4-2855.png
+DIFFERENT,Open,Open,4:2855,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2855.png
+DIFFERENT,Customer’s billing address shows a different city. They updated it but it still displays the old one.,Customer’s billing address shows a different city. They updated it but it still displays the old one.,4:2857,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-4-2857.png
+DIFFERENT,Customer’s billing address shows a different city. They updated it but it still displays the old one.,Customer’s billing address shows a different city. They updated it but it still displays the old one.,4:2857,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-4-2857.png
+DIFFERENT,Customer’s billing address shows a different city. They updated it but it still displays the old one.,Customer’s billing address shows a different city. They updated it but it still displays the old one.,4:2857,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2857.png
+DIFFERENT,#1004,#1004,4:2859,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-4-2859.png
+DIFFERENT,#1004,#1004,4:2859,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2859.png
+MISSING_IN_DOM,LOW PRIORITY,LOW PRIORITY,4:2860,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Emily Davis,Emily Davis,4:2865,p,width,76,69.515625,"Width mismatch: expected 76px, got 69.515625px",artifacts/issue-shots/issue-4-2865.png
+DIFFERENT,Emily Davis,Emily Davis,4:2865,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2865.png
+DIFFERENT,1/18/2024,1/18/2024,4:2869,p,width,67,95.75,"Width mismatch: expected 67px, got 95.75px",artifacts/issue-shots/issue-4-2869.png
+DIFFERENT,1/18/2024,1/18/2024,4:2869,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2869.png
+DIFFERENT,Refund Not Processed,Refund Not Processed,4:2755,h2,width,331,182.25,"Width mismatch: expected 331px, got 182.25px",
+DIFFERENT,Refund Not Processed,Refund Not Processed,4:2755,h2,height,22,27,"Height mismatch: expected 22px, got 27px",
+MISSING_IN_DOM,In- Progress,In- Progress,4:2759,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Customer requested a refund two weeks ago but has not received the amount yet.,Customer requested a refund two weeks ago but has not received the amount yet.,4:2761,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-4-2761.png
+DIFFERENT,Customer requested a refund two weeks ago but has not received the amount yet.,Customer requested a refund two weeks ago but has not received the amount yet.,4:2761,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-4-2761.png
+DIFFERENT,Customer requested a refund two weeks ago but has not received the amount yet.,Customer requested a refund two weeks ago but has not received the amount yet.,4:2761,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2761.png
+DIFFERENT,#1006,#1006,4:2763,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-4-2763.png
+DIFFERENT,#1006,#1006,4:2763,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2763.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,4:2764,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Sophia Taylor,Sophia Taylor,4:2769,p,width,90,82.265625,"Width mismatch: expected 90px, got 82.265625px",artifacts/issue-shots/issue-4-2769.png
+DIFFERENT,Sophia Taylor,Sophia Taylor,4:2769,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2769.png
+DIFFERENT,1/20/2024,1/20/2024,4:2773,p,width,69,95.75,"Width mismatch: expected 69px, got 95.75px",artifacts/issue-shots/issue-4-2773.png
+DIFFERENT,1/20/2024,1/20/2024,4:2773,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2773.png
+DIFFERENT,Unable to Update Profile Picture,Unable to Update Profile Picture,4:2779,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Unable to Update Profile Picture,Unable to Update Profile Picture,4:2779,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,4:2783,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-4-2783.png
+DIFFERENT,Open,Open,4:2783,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2783.png
+DIFFERENT,Customer tries to upload a new profile picture but gets 'Upload failed' error.,Customer tries to upload a new profile picture but gets 'Upload failed' error.,4:2785,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-4-2785.png
+DIFFERENT,Customer tries to upload a new profile picture but gets 'Upload failed' error.,Customer tries to upload a new profile picture but gets 'Upload failed' error.,4:2785,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-4-2785.png
+DIFFERENT,Customer tries to upload a new profile picture but gets 'Upload failed' error.,Customer tries to upload a new profile picture but gets 'Upload failed' error.,4:2785,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2785.png
+DIFFERENT,#1008,#1008,4:2787,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-4-2787.png
+DIFFERENT,#1008,#1008,4:2787,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2787.png
+MISSING_IN_DOM,LOW PRIORITY,LOW PRIORITY,4:2870,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Olivia Martinez,Olivia Martinez,4:2793,p,width,99,92.671875,"Width mismatch: expected 99px, got 92.671875px",artifacts/issue-shots/issue-4-2793.png
+DIFFERENT,Olivia Martinez,Olivia Martinez,4:2793,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2793.png
+DIFFERENT,1/22/2024,1/22/2024,4:2797,p,width,68,95.75,"Width mismatch: expected 68px, got 95.75px",artifacts/issue-shots/issue-4-2797.png
+DIFFERENT,1/22/2024,1/22/2024,4:2797,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2797.png
+DIFFERENT,Missing Order Confirmation Email,Missing Order Confirmation Email,4:2803,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Missing Order Confirmation Email,Missing Order Confirmation Email,4:2803,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,4:2807,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-4-2807.png
+DIFFERENT,Open,Open,4:2807,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2807.png
+DIFFERENT,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,4:2809,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-4-2809.png
+DIFFERENT,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,4:2809,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-4-2809.png
+DIFFERENT,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,4:2809,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-4-2809.png
+DIFFERENT,#1010,#1010,4:2811,p,width,41,38.46875,"Width mismatch: expected 41px, got 38.46875px",artifacts/issue-shots/issue-4-2811.png
+DIFFERENT,#1010,#1010,4:2811,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2811.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,4:2873,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Isabella Garcia,Isabella Garcia,4:2817,p,width,97,88.65625,"Width mismatch: expected 97px, got 88.65625px",artifacts/issue-shots/issue-4-2817.png
+DIFFERENT,Isabella Garcia,Isabella Garcia,4:2817,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2817.png
+DIFFERENT,1/24/2024,1/24/2024,4:2821,p,width,69,95.75,"Width mismatch: expected 69px, got 95.75px",artifacts/issue-shots/issue-4-2821.png
+DIFFERENT,1/24/2024,1/24/2024,4:2821,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-4-2821.png
+DIFFERENT,Task Status,Task Status,4:2877,p,width,358,267,"Width mismatch: expected 358px, got 267px",artifacts/issue-shots/issue-4-2877.png
+DIFFERENT,Task Status,Task Status,4:2877,p,height,26,40,"Height mismatch: expected 26px, got 40px",artifacts/issue-shots/issue-4-2877.png
+DIFFERENT,Task Status,Task Status,4:2877,p,fontSize,24,36,"Font size mismatch: expected 24px, got 36px",artifacts/issue-shots/issue-4-2877.png
+DIFFERENT,Select a ticket to add to Task Status,Select a ticket to add to Task Status,4:3123,div,width,358,267,"Width mismatch: expected 358px, got 267px",artifacts/issue-shots/issue-4-3123.png
+DIFFERENT,Select a ticket to add to Task Status,Select a ticket to add to Task Status,4:3123,div,height,18,24,"Height mismatch: expected 18px, got 24px",artifacts/issue-shots/issue-4-3123.png
+DIFFERENT,Resolved Task,Resolved Task,4:3127,p,width,358,267,"Width mismatch: expected 358px, got 267px",artifacts/issue-shots/issue-4-3127.png
+DIFFERENT,Resolved Task,Resolved Task,4:3127,p,height,26,40,"Height mismatch: expected 26px, got 40px",artifacts/issue-shots/issue-4-3127.png
+DIFFERENT,Resolved Task,Resolved Task,4:3127,p,fontSize,24,36,"Font size mismatch: expected 24px, got 36px",artifacts/issue-shots/issue-4-3127.png
+DIFFERENT,No resolved tasks yet.,No resolved tasks yet.,4:3128,div,width,358,267,"Width mismatch: expected 358px, got 267px",artifacts/issue-shots/issue-4-3128.png
+DIFFERENT,No resolved tasks yet.,No resolved tasks yet.,4:3128,div,height,18,24,"Height mismatch: expected 18px, got 24px",artifacts/issue-shots/issue-4-3128.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,41:1353,div,width,350,830.875,"Width mismatch: expected 350px, got 830.875px",artifacts/issue-shots/issue-41-1353.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,41:1353,div,height,26,36,"Height mismatch: expected 26px, got 36px",artifacts/issue-shots/issue-41-1353.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,41:1353,div,fontSize,24,16,"Font size mismatch: expected 24px, got 16px",artifacts/issue-shots/issue-41-1353.png
+MISSING_IN_DOM,"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",41:755,,,,,Text exists in Figma but not found on page,
+MISSING_IN_DOM,Company,Company,41:757,,,,,Text exists in Figma but not found on page,
+DIFFERENT,About Us,About Us,41:759,a,width,71,57.53125,"Width mismatch: expected 71px, got 57.53125px",artifacts/issue-shots/issue-41-759.png
+DIFFERENT,About Us,About Us,41:759,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-41-759.png
+DIFFERENT,About Us,About Us,41:759,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-41-759.png
+DIFFERENT,Our Mission,Our Mission,41:760,a,width,90,74.546875,"Width mismatch: expected 90px, got 74.546875px",artifacts/issue-shots/issue-41-760.png
+DIFFERENT,Our Mission,Our Mission,41:760,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-41-760.png
+DIFFERENT,Our Mission,Our Mission,41:760,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-41-760.png
+DIFFERENT,Contact Saled,Contact Saled,41:761,a,width,107,85.234375,"Width mismatch: expected 107px, got 85.234375px",artifacts/issue-shots/issue-41-761.png
+DIFFERENT,Contact Saled,Contact Saled,41:761,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-41-761.png
+DIFFERENT,Contact Saled,Contact Saled,41:761,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-41-761.png
+MISSING_IN_DOM,Services,Services,41:763,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Products & Services,Products & Services,41:765,a,width,152,122.5625,"Width mismatch: expected 152px, got 122.5625px",artifacts/issue-shots/issue-41-765.png
+DIFFERENT,Products & Services,Products & Services,41:765,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-41-765.png
+DIFFERENT,Products & Services,Products & Services,41:765,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-41-765.png
+DIFFERENT,Customer Stories,Customer Stories,41:766,a,width,132,105.015625,"Width mismatch: expected 132px, got 105.015625px",artifacts/issue-shots/issue-41-766.png
+DIFFERENT,Customer Stories,Customer Stories,41:766,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-41-766.png
+DIFFERENT,Customer Stories,Customer Stories,41:766,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-41-766.png
+DIFFERENT,Download Apps,Download Apps,41:767,a,width,119,98.296875,"Width mismatch: expected 119px, got 98.296875px",artifacts/issue-shots/issue-41-767.png
+DIFFERENT,Download Apps,Download Apps,41:767,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-41-767.png
+DIFFERENT,Download Apps,Download Apps,41:767,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-41-767.png
+MISSING_IN_DOM,Information,Information,41:1359,,,,,Text exists in Figma but not found on page,
+MISSING_IN_DOM,Privacy Policy,Privacy Policy,41:1361,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Terms & Conditions,Terms & Conditions,41:1362,a,width,147,121.671875,"Width mismatch: expected 147px, got 121.671875px",artifacts/issue-shots/issue-41-1362.png
+DIFFERENT,Terms & Conditions,Terms & Conditions,41:1362,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-41-1362.png
+DIFFERENT,Terms & Conditions,Terms & Conditions,41:1362,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-41-1362.png
+DIFFERENT,Join Us,Join Us,41:1363,a,width,57,43.921875,"Width mismatch: expected 57px, got 43.921875px",artifacts/issue-shots/issue-41-1363.png
+DIFFERENT,Join Us,Join Us,41:1363,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-41-1363.png
+DIFFERENT,Join Us,Join Us,41:1363,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-41-1363.png
+MISSING_IN_DOM,Social Links,Social Links,41:771,,,,,Text exists in Figma but not found on page,
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,41:778,a,width,170,158.078125,"Width mismatch: expected 170px, got 158.078125px",artifacts/issue-shots/issue-41-778.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,41:778,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-41-778.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,41:778,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-41-778.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,41:785,a,width,170,158.078125,"Width mismatch: expected 170px, got 158.078125px",artifacts/issue-shots/issue-41-785.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,41:785,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-41-785.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,41:785,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-41-785.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,41:791,a,width,170,158.078125,"Width mismatch: expected 170px, got 158.078125px",artifacts/issue-shots/issue-41-791.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,41:791,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-41-791.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,41:791,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-41-791.png
+MISSING_IN_DOM,support@cst.com,support@cst.com,41:795,,,,,Text exists in Figma but not found on page,
+DIFFERENT,© 2025 CS — Ticket System. All rights reserved.,© 2025 CS — Ticket System. All rights reserved.,41:809,nav,height,24,44,"Height mismatch: expected 24px, got 44px",
+DIFFERENT,CS — Ticket System,CS — Ticket System,41:72,div,width,750,830.875,"Width mismatch: expected 750px, got 830.875px",artifacts/issue-shots/issue-41-72.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,41:72,div,height,26,36,"Height mismatch: expected 26px, got 36px",artifacts/issue-shots/issue-41-72.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,41:72,div,fontSize,24,16,"Font size mismatch: expected 24px, got 16px",artifacts/issue-shots/issue-41-72.png
+DIFFERENT,Home,Course Details,41:74,button,width,45,42.890625,"Width mismatch: expected 45px, got 42.890625px",artifacts/issue-shots/issue-41-74.png
+DIFFERENT,FAQ,Blog,41:75,button,width,31,29.265625,"Width mismatch: expected 31px, got 29.265625px",artifacts/issue-shots/issue-41-75.png
+DIFFERENT,Changelog,My Classess,41:76,button,width,82,76.625,"Width mismatch: expected 82px, got 76.625px",artifacts/issue-shots/issue-41-76.png
+DIFFERENT,Blog,My Classess,41:77,button,width,34,31.84375,"Width mismatch: expected 34px, got 31.84375px",artifacts/issue-shots/issue-41-77.png
+DIFFERENT,Download,My Classess,41:78,button,width,76,72.03125,"Width mismatch: expected 76px, got 72.03125px",artifacts/issue-shots/issue-41-78.png
+DIFFERENT,Contact,My Classess,41:79,button,width,61,54.71875,"Width mismatch: expected 61px, got 54.71875px",artifacts/issue-shots/issue-41-79.png
+MISSING_IN_DOM,New Ticket,Enroll Now_2,41:83,,,,,Text exists in Figma but not found on page,
+DIFFERENT,CS — Ticket System,CS — Ticket System,42:5,div,width,350,830.875,"Width mismatch: expected 350px, got 830.875px",artifacts/issue-shots/issue-42-5.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,42:5,div,height,26,36,"Height mismatch: expected 26px, got 36px",artifacts/issue-shots/issue-42-5.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,42:5,div,fontSize,24,16,"Font size mismatch: expected 24px, got 16px",artifacts/issue-shots/issue-42-5.png
+MISSING_IN_DOM,"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",42:6,,,,,Text exists in Figma but not found on page,
+MISSING_IN_DOM,Company,Company,42:8,,,,,Text exists in Figma but not found on page,
+DIFFERENT,About Us,About Us,42:10,a,width,71,57.53125,"Width mismatch: expected 71px, got 57.53125px",artifacts/issue-shots/issue-42-10.png
+DIFFERENT,About Us,About Us,42:10,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-10.png
+DIFFERENT,About Us,About Us,42:10,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-10.png
+DIFFERENT,Our Mission,Our Mission,42:11,a,width,90,74.546875,"Width mismatch: expected 90px, got 74.546875px",artifacts/issue-shots/issue-42-11.png
+DIFFERENT,Our Mission,Our Mission,42:11,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-11.png
+DIFFERENT,Our Mission,Our Mission,42:11,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-11.png
+DIFFERENT,Contact Saled,Contact Saled,42:12,a,width,107,85.234375,"Width mismatch: expected 107px, got 85.234375px",artifacts/issue-shots/issue-42-12.png
+DIFFERENT,Contact Saled,Contact Saled,42:12,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-12.png
+DIFFERENT,Contact Saled,Contact Saled,42:12,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-12.png
+MISSING_IN_DOM,Services,Services,42:14,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Products & Services,Products & Services,42:16,a,width,152,122.5625,"Width mismatch: expected 152px, got 122.5625px",artifacts/issue-shots/issue-42-16.png
+DIFFERENT,Products & Services,Products & Services,42:16,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-16.png
+DIFFERENT,Products & Services,Products & Services,42:16,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-16.png
+DIFFERENT,Customer Stories,Customer Stories,42:17,a,width,132,105.015625,"Width mismatch: expected 132px, got 105.015625px",artifacts/issue-shots/issue-42-17.png
+DIFFERENT,Customer Stories,Customer Stories,42:17,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-17.png
+DIFFERENT,Customer Stories,Customer Stories,42:17,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-17.png
+DIFFERENT,Download Apps,Download Apps,42:18,a,width,119,98.296875,"Width mismatch: expected 119px, got 98.296875px",artifacts/issue-shots/issue-42-18.png
+DIFFERENT,Download Apps,Download Apps,42:18,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-18.png
+DIFFERENT,Download Apps,Download Apps,42:18,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-18.png
+MISSING_IN_DOM,Information,Information,42:20,,,,,Text exists in Figma but not found on page,
+MISSING_IN_DOM,Privacy Policy,Privacy Policy,42:22,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Terms & Conditions,Terms & Conditions,42:23,a,width,147,121.671875,"Width mismatch: expected 147px, got 121.671875px",artifacts/issue-shots/issue-42-23.png
+DIFFERENT,Terms & Conditions,Terms & Conditions,42:23,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-23.png
+DIFFERENT,Terms & Conditions,Terms & Conditions,42:23,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-23.png
+DIFFERENT,Join Us,Join Us,42:24,a,width,57,43.921875,"Width mismatch: expected 57px, got 43.921875px",artifacts/issue-shots/issue-42-24.png
+DIFFERENT,Join Us,Join Us,42:24,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-24.png
+DIFFERENT,Join Us,Join Us,42:24,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-24.png
+MISSING_IN_DOM,Social Links,Social Links,42:26,,,,,Text exists in Figma but not found on page,
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:33,a,width,170,158.078125,"Width mismatch: expected 170px, got 158.078125px",artifacts/issue-shots/issue-42-33.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:33,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-33.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:33,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-33.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:40,a,width,170,158.078125,"Width mismatch: expected 170px, got 158.078125px",artifacts/issue-shots/issue-42-40.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:40,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-40.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:40,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-40.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:46,a,width,170,158.078125,"Width mismatch: expected 170px, got 158.078125px",artifacts/issue-shots/issue-42-46.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:46,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-46.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:46,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-46.png
+MISSING_IN_DOM,support@cst.com,support@cst.com,42:50,,,,,Text exists in Figma but not found on page,
+DIFFERENT,© 2025 CS — Ticket System. All rights reserved.,© 2025 CS — Ticket System. All rights reserved.,42:53,nav,height,24,44,"Height mismatch: expected 24px, got 44px",
+DIFFERENT,In-Progress,In-Progress,42:142,p,width,628,129.125,"Width mismatch: expected 628px, got 129.125px",artifacts/issue-shots/issue-42-142.png
+DIFFERENT,In-Progress,In-Progress,42:142,p,height,26,32,"Height mismatch: expected 26px, got 32px",artifacts/issue-shots/issue-42-142.png
+DIFFERENT,0,0,42:143,p,width,628,129.125,"Width mismatch: expected 628px, got 129.125px",artifacts/issue-shots/issue-42-143.png
+DIFFERENT,0,0,42:143,p,height,73,32,"Height mismatch: expected 73px, got 32px",artifacts/issue-shots/issue-42-143.png
+DIFFERENT,0,0,42:143,p,fontSize,60,24,"Font size mismatch: expected 60px, got 24px",artifacts/issue-shots/issue-42-143.png
+DIFFERENT,Resolved,Resolved,42:156,p,width,628,100.734375,"Width mismatch: expected 628px, got 100.734375px",artifacts/issue-shots/issue-42-156.png
+DIFFERENT,Resolved,Resolved,42:156,p,height,26,32,"Height mismatch: expected 26px, got 32px",artifacts/issue-shots/issue-42-156.png
+DIFFERENT,0,0,42:157,p,width,628,129.125,"Width mismatch: expected 628px, got 129.125px",artifacts/issue-shots/issue-42-157.png
+DIFFERENT,0,0,42:157,p,height,73,32,"Height mismatch: expected 73px, got 32px",artifacts/issue-shots/issue-42-157.png
+DIFFERENT,0,0,42:157,p,fontSize,60,24,"Font size mismatch: expected 60px, got 24px",artifacts/issue-shots/issue-42-157.png
+DIFFERENT,Customer Tickets,Customer Tickets,5:55,p,width,1050,841,"Width mismatch: expected 1050px, got 841px",artifacts/issue-shots/issue-5-55.png
+DIFFERENT,Customer Tickets,Customer Tickets,5:55,p,height,26,40,"Height mismatch: expected 26px, got 40px",artifacts/issue-shots/issue-5-55.png
+DIFFERENT,Customer Tickets,Customer Tickets,5:55,p,fontSize,24,36,"Font size mismatch: expected 24px, got 36px",artifacts/issue-shots/issue-5-55.png
+DIFFERENT,Login Issues - Can't Access Account,Login Issues - Can't Access Account,5:63,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Login Issues - Can't Access Account,Login Issues - Can't Access Account,5:63,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:67,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-67.png
+DIFFERENT,Open,Open,5:67,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-67.png
+DIFFERENT,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,5:69,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-69.png
+DIFFERENT,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,5:69,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-69.png
+DIFFERENT,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,5:69,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-69.png
+DIFFERENT,#1001,#1001,5:71,p,width,41,38.46875,"Width mismatch: expected 41px, got 38.46875px",artifacts/issue-shots/issue-5-71.png
+DIFFERENT,#1001,#1001,5:71,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-71.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,5:72,,,,,Text exists in Figma but not found on page,
+DIFFERENT,John Smith,John Smith,5:77,p,width,75,68.4375,"Width mismatch: expected 75px, got 68.4375px",artifacts/issue-shots/issue-5-77.png
+DIFFERENT,John Smith,John Smith,5:77,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-77.png
+DIFFERENT,1/15/2024,1/15/2024,5:81,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-5-81.png
+DIFFERENT,1/15/2024,1/15/2024,5:81,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-81.png
+DIFFERENT,Unable to Download Invoice,Unable to Download Invoice,5:87,h2,width,331,182.25,"Width mismatch: expected 331px, got 182.25px",
+DIFFERENT,Unable to Download Invoice,Unable to Download Invoice,5:87,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+MISSING_IN_DOM,In- Progress,In- Progress,5:91,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Customer cannot download their January invoice from the billing section. The download button is...,Customer cannot download their January invoice from the billing section. The download button is...,5:93,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-93.png
+DIFFERENT,Customer cannot download their January invoice from the billing section. The download button is...,Customer cannot download their January invoice from the billing section. The download button is...,5:93,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-93.png
+DIFFERENT,Customer cannot download their January invoice from the billing section. The download button is...,Customer cannot download their January invoice from the billing section. The download button is...,5:93,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-93.png
+DIFFERENT,#1003,#1003,5:95,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-95.png
+DIFFERENT,#1003,#1003,5:95,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-95.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,5:96,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Michael Brown,Michael Brown,5:101,p,width,97,91.171875,"Width mismatch: expected 97px, got 91.171875px",artifacts/issue-shots/issue-5-101.png
+DIFFERENT,Michael Brown,Michael Brown,5:101,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-101.png
+DIFFERENT,1/17/2024,1/17/2024,5:105,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-5-105.png
+DIFFERENT,1/17/2024,1/17/2024,5:105,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-105.png
+DIFFERENT,App Crash on Launch,App Crash on Launch,5:111,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,App Crash on Launch,App Crash on Launch,5:111,h2,height,22,27,"Height mismatch: expected 22px, got 27px",
+DIFFERENT,Open,Open,5:115,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-115.png
+DIFFERENT,Open,Open,5:115,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-115.png
+DIFFERENT,Customer reports that the mobile app crashes immediately upon opening on Android 13.,Customer reports that the mobile app crashes immediately upon opening on Android 13.,5:117,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-117.png
+DIFFERENT,Customer reports that the mobile app crashes immediately upon opening on Android 13.,Customer reports that the mobile app crashes immediately upon opening on Android 13.,5:117,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-117.png
+DIFFERENT,Customer reports that the mobile app crashes immediately upon opening on Android 13.,Customer reports that the mobile app crashes immediately upon opening on Android 13.,5:117,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-117.png
+DIFFERENT,#1005,#1005,5:119,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-119.png
+DIFFERENT,#1005,#1005,5:119,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-119.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,5:120,,,,,Text exists in Figma but not found on page,
+DIFFERENT,David Wilson,David Wilson,5:125,p,width,86,81.046875,"Width mismatch: expected 86px, got 81.046875px",artifacts/issue-shots/issue-5-125.png
+DIFFERENT,David Wilson,David Wilson,5:125,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-125.png
+DIFFERENT,1/19/2024,1/19/2024,5:129,p,width,67,95.75,"Width mismatch: expected 67px, got 95.75px",artifacts/issue-shots/issue-5-129.png
+DIFFERENT,1/19/2024,1/19/2024,5:129,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-129.png
+DIFFERENT,Two-Factor Authentication Issue,Two-Factor Authentication Issue,5:135,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Two-Factor Authentication Issue,Two-Factor Authentication Issue,5:135,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:139,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-139.png
+DIFFERENT,Open,Open,5:139,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-139.png
+DIFFERENT,Customer is not receiving 2FA codes on their registered phone number.,Customer is not receiving 2FA codes on their registered phone number.,5:141,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-141.png
+DIFFERENT,Customer is not receiving 2FA codes on their registered phone number.,Customer is not receiving 2FA codes on their registered phone number.,5:141,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-141.png
+DIFFERENT,Customer is not receiving 2FA codes on their registered phone number.,Customer is not receiving 2FA codes on their registered phone number.,5:141,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-141.png
+DIFFERENT,#1007,#1007,5:143,p,width,42,38.46875,"Width mismatch: expected 42px, got 38.46875px",artifacts/issue-shots/issue-5-143.png
+DIFFERENT,#1007,#1007,5:143,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-143.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,5:144,,,,,Text exists in Figma but not found on page,
+DIFFERENT,James Anderson,James Anderson,5:149,p,width,111,100.734375,"Width mismatch: expected 111px, got 100.734375px",artifacts/issue-shots/issue-5-149.png
+DIFFERENT,James Anderson,James Anderson,5:149,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-149.png
+DIFFERENT,1/21/2024,1/21/2024,5:153,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-5-153.png
+DIFFERENT,1/21/2024,1/21/2024,5:153,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-153.png
+DIFFERENT,Subscription Auto-Renewal,Subscription Auto-Renewal,5:159,h2,width,331,182.25,"Width mismatch: expected 331px, got 182.25px",
+DIFFERENT,Subscription Auto-Renewal,Subscription Auto-Renewal,5:159,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+MISSING_IN_DOM,In- Progress,In- Progress,5:163,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,5:165,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-165.png
+DIFFERENT,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,5:165,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-165.png
+DIFFERENT,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,5:165,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-165.png
+DIFFERENT,#1009,#1009,5:167,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-167.png
+DIFFERENT,#1009,#1009,5:167,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-167.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,5:168,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Liam Thomas,Liam Thomas,5:173,p,width,89,81.59375,"Width mismatch: expected 89px, got 81.59375px",artifacts/issue-shots/issue-5-173.png
+DIFFERENT,Liam Thomas,Liam Thomas,5:173,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-173.png
+DIFFERENT,1/17/2024,1/17/2024,5:177,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-5-177.png
+DIFFERENT,1/17/2024,1/17/2024,5:177,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-177.png
+DIFFERENT,Payment Failed - Card Declined,Payment Failed - Card Declined,5:184,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Payment Failed - Card Declined,Payment Failed - Card Declined,5:184,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:188,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-188.png
+DIFFERENT,Open,Open,5:188,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-188.png
+DIFFERENT,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,5:190,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-190.png
+DIFFERENT,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,5:190,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-190.png
+DIFFERENT,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,5:190,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-190.png
+DIFFERENT,#1002,#1002,5:192,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-192.png
+DIFFERENT,#1002,#1002,5:192,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-192.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,5:193,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Sarah Johnson,Sarah Johnson,5:198,p,width,99,89.421875,"Width mismatch: expected 99px, got 89.421875px",artifacts/issue-shots/issue-5-198.png
+DIFFERENT,Sarah Johnson,Sarah Johnson,5:198,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-198.png
+DIFFERENT,1/16/2024,1/16/2024,5:202,p,width,67,95.75,"Width mismatch: expected 67px, got 95.75px",artifacts/issue-shots/issue-5-202.png
+DIFFERENT,1/16/2024,1/16/2024,5:202,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-202.png
+DIFFERENT,Incorrect Billing Address,Incorrect Billing Address,5:208,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Incorrect Billing Address,Incorrect Billing Address,5:208,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:212,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-212.png
+DIFFERENT,Open,Open,5:212,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-212.png
+DIFFERENT,Customer’s billing address shows a different city. They updated it but it still displays the old one.,Customer’s billing address shows a different city. They updated it but it still displays the old one.,5:214,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-214.png
+DIFFERENT,Customer’s billing address shows a different city. They updated it but it still displays the old one.,Customer’s billing address shows a different city. They updated it but it still displays the old one.,5:214,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-214.png
+DIFFERENT,Customer’s billing address shows a different city. They updated it but it still displays the old one.,Customer’s billing address shows a different city. They updated it but it still displays the old one.,5:214,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-214.png
+DIFFERENT,#1004,#1004,5:216,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-216.png
+DIFFERENT,#1004,#1004,5:216,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-216.png
+MISSING_IN_DOM,LOW PRIORITY,LOW PRIORITY,5:217,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Emily Davis,Emily Davis,5:222,p,width,76,69.515625,"Width mismatch: expected 76px, got 69.515625px",artifacts/issue-shots/issue-5-222.png
+DIFFERENT,Emily Davis,Emily Davis,5:222,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-222.png
+DIFFERENT,1/18/2024,1/18/2024,5:226,p,width,67,95.75,"Width mismatch: expected 67px, got 95.75px",artifacts/issue-shots/issue-5-226.png
+DIFFERENT,1/18/2024,1/18/2024,5:226,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-226.png
+DIFFERENT,Refund Not Processed,Refund Not Processed,5:232,h2,width,331,182.25,"Width mismatch: expected 331px, got 182.25px",
+DIFFERENT,Refund Not Processed,Refund Not Processed,5:232,h2,height,22,27,"Height mismatch: expected 22px, got 27px",
+MISSING_IN_DOM,In- Progress,In- Progress,5:236,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Customer requested a refund two weeks ago but has not received the amount yet.,Customer requested a refund two weeks ago but has not received the amount yet.,5:238,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-238.png
+DIFFERENT,Customer requested a refund two weeks ago but has not received the amount yet.,Customer requested a refund two weeks ago but has not received the amount yet.,5:238,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-238.png
+DIFFERENT,Customer requested a refund two weeks ago but has not received the amount yet.,Customer requested a refund two weeks ago but has not received the amount yet.,5:238,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-238.png
+DIFFERENT,#1006,#1006,5:240,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-240.png
+DIFFERENT,#1006,#1006,5:240,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-240.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,5:241,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Sophia Taylor,Sophia Taylor,5:246,p,width,90,82.265625,"Width mismatch: expected 90px, got 82.265625px",artifacts/issue-shots/issue-5-246.png
+DIFFERENT,Sophia Taylor,Sophia Taylor,5:246,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-246.png
+DIFFERENT,1/20/2024,1/20/2024,5:250,p,width,69,95.75,"Width mismatch: expected 69px, got 95.75px",artifacts/issue-shots/issue-5-250.png
+DIFFERENT,1/20/2024,1/20/2024,5:250,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-250.png
+DIFFERENT,Unable to Update Profile Picture,Unable to Update Profile Picture,5:256,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Unable to Update Profile Picture,Unable to Update Profile Picture,5:256,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:260,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-260.png
+DIFFERENT,Open,Open,5:260,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-260.png
+DIFFERENT,Customer tries to upload a new profile picture but gets 'Upload failed' error.,Customer tries to upload a new profile picture but gets 'Upload failed' error.,5:262,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-262.png
+DIFFERENT,Customer tries to upload a new profile picture but gets 'Upload failed' error.,Customer tries to upload a new profile picture but gets 'Upload failed' error.,5:262,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-262.png
+DIFFERENT,Customer tries to upload a new profile picture but gets 'Upload failed' error.,Customer tries to upload a new profile picture but gets 'Upload failed' error.,5:262,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-262.png
+DIFFERENT,#1008,#1008,5:264,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-264.png
+DIFFERENT,#1008,#1008,5:264,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-264.png
+MISSING_IN_DOM,LOW PRIORITY,LOW PRIORITY,5:265,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Olivia Martinez,Olivia Martinez,5:270,p,width,99,92.671875,"Width mismatch: expected 99px, got 92.671875px",artifacts/issue-shots/issue-5-270.png
+DIFFERENT,Olivia Martinez,Olivia Martinez,5:270,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-270.png
+DIFFERENT,1/22/2024,1/22/2024,5:274,p,width,68,95.75,"Width mismatch: expected 68px, got 95.75px",artifacts/issue-shots/issue-5-274.png
+DIFFERENT,1/22/2024,1/22/2024,5:274,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-274.png
+DIFFERENT,Missing Order Confirmation Email,Missing Order Confirmation Email,5:280,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Missing Order Confirmation Email,Missing Order Confirmation Email,5:280,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:284,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-284.png
+DIFFERENT,Open,Open,5:284,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-284.png
+DIFFERENT,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,5:286,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-286.png
+DIFFERENT,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,5:286,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-286.png
+DIFFERENT,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,5:286,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-286.png
+DIFFERENT,#1010,#1010,5:288,p,width,41,38.46875,"Width mismatch: expected 41px, got 38.46875px",artifacts/issue-shots/issue-5-288.png
+DIFFERENT,#1010,#1010,5:288,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-288.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,5:289,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Isabella Garcia,Isabella Garcia,5:294,p,width,97,88.65625,"Width mismatch: expected 97px, got 88.65625px",artifacts/issue-shots/issue-5-294.png
+DIFFERENT,Isabella Garcia,Isabella Garcia,5:294,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-294.png
+DIFFERENT,1/24/2024,1/24/2024,5:298,p,width,69,95.75,"Width mismatch: expected 69px, got 95.75px",artifacts/issue-shots/issue-5-298.png
+DIFFERENT,1/24/2024,1/24/2024,5:298,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-298.png
+DIFFERENT,Task Status,Task Status,5:302,p,width,358,267,"Width mismatch: expected 358px, got 267px",artifacts/issue-shots/issue-5-302.png
+DIFFERENT,Task Status,Task Status,5:302,p,height,26,40,"Height mismatch: expected 26px, got 40px",artifacts/issue-shots/issue-5-302.png
+DIFFERENT,Task Status,Task Status,5:302,p,fontSize,24,36,"Font size mismatch: expected 24px, got 36px",artifacts/issue-shots/issue-5-302.png
+DIFFERENT,Payment Failed - Card Declined,Payment Failed - Card Declined,5:350,h2,width,326,182.25,"Width mismatch: expected 326px, got 182.25px",
+DIFFERENT,Payment Failed - Card Declined,Payment Failed - Card Declined,5:350,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+MISSING_IN_DOM,Complete,Enroll Now_2,5:378,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Incorrect Billing Address,Incorrect Billing Address,5:684,h2,width,326,182.25,"Width mismatch: expected 326px, got 182.25px",
+DIFFERENT,Incorrect Billing Address,Incorrect Billing Address,5:684,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+MISSING_IN_DOM,Complete,Enroll Now_2,5:686,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Resolved Task,Resolved Task,5:306,p,width,358,267,"Width mismatch: expected 358px, got 267px",artifacts/issue-shots/issue-5-306.png
+DIFFERENT,Resolved Task,Resolved Task,5:306,p,height,26,40,"Height mismatch: expected 26px, got 40px",artifacts/issue-shots/issue-5-306.png
+DIFFERENT,Resolved Task,Resolved Task,5:306,p,fontSize,24,36,"Font size mismatch: expected 24px, got 36px",artifacts/issue-shots/issue-5-306.png
+DIFFERENT,No resolved tasks yet.,No resolved tasks yet.,5:307,div,width,358,267,"Width mismatch: expected 358px, got 267px",artifacts/issue-shots/issue-5-307.png
+DIFFERENT,No resolved tasks yet.,No resolved tasks yet.,5:307,div,height,18,24,"Height mismatch: expected 18px, got 24px",artifacts/issue-shots/issue-5-307.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,41:86,div,width,750,830.875,"Width mismatch: expected 750px, got 830.875px",artifacts/issue-shots/issue-41-86.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,41:86,div,height,26,36,"Height mismatch: expected 26px, got 36px",artifacts/issue-shots/issue-41-86.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,41:86,div,fontSize,24,16,"Font size mismatch: expected 24px, got 16px",artifacts/issue-shots/issue-41-86.png
+DIFFERENT,Home,Course Details,41:88,button,width,45,42.890625,"Width mismatch: expected 45px, got 42.890625px",artifacts/issue-shots/issue-41-88.png
+DIFFERENT,FAQ,Blog,41:89,button,width,31,29.265625,"Width mismatch: expected 31px, got 29.265625px",artifacts/issue-shots/issue-41-89.png
+DIFFERENT,Changelog,My Classess,41:90,button,width,82,76.625,"Width mismatch: expected 82px, got 76.625px",artifacts/issue-shots/issue-41-90.png
+DIFFERENT,Blog,My Classess,41:91,button,width,34,31.84375,"Width mismatch: expected 34px, got 31.84375px",artifacts/issue-shots/issue-41-91.png
+DIFFERENT,Download,My Classess,41:92,button,width,76,72.03125,"Width mismatch: expected 76px, got 72.03125px",artifacts/issue-shots/issue-41-92.png
+DIFFERENT,Contact,My Classess,41:93,button,width,61,54.71875,"Width mismatch: expected 61px, got 54.71875px",artifacts/issue-shots/issue-41-93.png
+MISSING_IN_DOM,New Ticket,Enroll Now_2,41:97,,,,,Text exists in Figma but not found on page,
+DIFFERENT,CS — Ticket System,CS — Ticket System,42:57,div,width,350,830.875,"Width mismatch: expected 350px, got 830.875px",artifacts/issue-shots/issue-42-57.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,42:57,div,height,26,36,"Height mismatch: expected 26px, got 36px",artifacts/issue-shots/issue-42-57.png
+DIFFERENT,CS — Ticket System,CS — Ticket System,42:57,div,fontSize,24,16,"Font size mismatch: expected 24px, got 16px",artifacts/issue-shots/issue-42-57.png
+MISSING_IN_DOM,"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",42:58,,,,,Text exists in Figma but not found on page,
+MISSING_IN_DOM,Company,Company,42:60,,,,,Text exists in Figma but not found on page,
+DIFFERENT,About Us,About Us,42:62,a,width,71,57.53125,"Width mismatch: expected 71px, got 57.53125px",artifacts/issue-shots/issue-42-62.png
+DIFFERENT,About Us,About Us,42:62,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-62.png
+DIFFERENT,About Us,About Us,42:62,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-62.png
+DIFFERENT,Our Mission,Our Mission,42:63,a,width,90,74.546875,"Width mismatch: expected 90px, got 74.546875px",artifacts/issue-shots/issue-42-63.png
+DIFFERENT,Our Mission,Our Mission,42:63,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-63.png
+DIFFERENT,Our Mission,Our Mission,42:63,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-63.png
+DIFFERENT,Contact Saled,Contact Saled,42:64,a,width,107,85.234375,"Width mismatch: expected 107px, got 85.234375px",artifacts/issue-shots/issue-42-64.png
+DIFFERENT,Contact Saled,Contact Saled,42:64,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-64.png
+DIFFERENT,Contact Saled,Contact Saled,42:64,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-64.png
+MISSING_IN_DOM,Services,Services,42:66,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Products & Services,Products & Services,42:68,a,width,152,122.5625,"Width mismatch: expected 152px, got 122.5625px",artifacts/issue-shots/issue-42-68.png
+DIFFERENT,Products & Services,Products & Services,42:68,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-68.png
+DIFFERENT,Products & Services,Products & Services,42:68,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-68.png
+DIFFERENT,Customer Stories,Customer Stories,42:69,a,width,132,105.015625,"Width mismatch: expected 132px, got 105.015625px",artifacts/issue-shots/issue-42-69.png
+DIFFERENT,Customer Stories,Customer Stories,42:69,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-69.png
+DIFFERENT,Customer Stories,Customer Stories,42:69,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-69.png
+DIFFERENT,Download Apps,Download Apps,42:70,a,width,119,98.296875,"Width mismatch: expected 119px, got 98.296875px",artifacts/issue-shots/issue-42-70.png
+DIFFERENT,Download Apps,Download Apps,42:70,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-70.png
+DIFFERENT,Download Apps,Download Apps,42:70,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-70.png
+MISSING_IN_DOM,Information,Information,42:72,,,,,Text exists in Figma but not found on page,
+MISSING_IN_DOM,Privacy Policy,Privacy Policy,42:74,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Terms & Conditions,Terms & Conditions,42:75,a,width,147,121.671875,"Width mismatch: expected 147px, got 121.671875px",artifacts/issue-shots/issue-42-75.png
+DIFFERENT,Terms & Conditions,Terms & Conditions,42:75,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-75.png
+DIFFERENT,Terms & Conditions,Terms & Conditions,42:75,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-75.png
+DIFFERENT,Join Us,Join Us,42:76,a,width,57,43.921875,"Width mismatch: expected 57px, got 43.921875px",artifacts/issue-shots/issue-42-76.png
+DIFFERENT,Join Us,Join Us,42:76,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-76.png
+DIFFERENT,Join Us,Join Us,42:76,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-76.png
+MISSING_IN_DOM,Social Links,Social Links,42:78,,,,,Text exists in Figma but not found on page,
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:85,a,width,170,158.078125,"Width mismatch: expected 170px, got 158.078125px",artifacts/issue-shots/issue-42-85.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:85,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-85.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:85,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-85.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:92,a,width,170,158.078125,"Width mismatch: expected 170px, got 158.078125px",artifacts/issue-shots/issue-42-92.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:92,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-92.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:92,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-92.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:98,a,width,170,158.078125,"Width mismatch: expected 170px, got 158.078125px",artifacts/issue-shots/issue-42-98.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:98,a,height,24,20,"Height mismatch: expected 24px, got 20px",artifacts/issue-shots/issue-42-98.png
+DIFFERENT,@CS — Ticket System,@CS — Ticket System,42:98,a,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-42-98.png
+MISSING_IN_DOM,support@cst.com,support@cst.com,42:102,,,,,Text exists in Figma but not found on page,
+DIFFERENT,© 2025 CS — Ticket System. All rights reserved.,© 2025 CS — Ticket System. All rights reserved.,42:105,nav,height,24,44,"Height mismatch: expected 24px, got 44px",
+DIFFERENT,In-Progress,In-Progress,42:174,p,width,628,129.125,"Width mismatch: expected 628px, got 129.125px",artifacts/issue-shots/issue-42-174.png
+DIFFERENT,In-Progress,In-Progress,42:174,p,height,26,32,"Height mismatch: expected 26px, got 32px",artifacts/issue-shots/issue-42-174.png
+DIFFERENT,0,0,42:175,p,width,628,129.125,"Width mismatch: expected 628px, got 129.125px",artifacts/issue-shots/issue-42-175.png
+DIFFERENT,0,0,42:175,p,height,73,32,"Height mismatch: expected 73px, got 32px",artifacts/issue-shots/issue-42-175.png
+DIFFERENT,0,0,42:175,p,fontSize,60,24,"Font size mismatch: expected 60px, got 24px",artifacts/issue-shots/issue-42-175.png
+DIFFERENT,Resolved,Resolved,42:188,p,width,628,100.734375,"Width mismatch: expected 628px, got 100.734375px",artifacts/issue-shots/issue-42-188.png
+DIFFERENT,Resolved,Resolved,42:188,p,height,26,32,"Height mismatch: expected 26px, got 32px",artifacts/issue-shots/issue-42-188.png
+DIFFERENT,0,0,42:189,p,width,628,129.125,"Width mismatch: expected 628px, got 129.125px",artifacts/issue-shots/issue-42-189.png
+DIFFERENT,0,0,42:189,p,height,73,32,"Height mismatch: expected 73px, got 32px",artifacts/issue-shots/issue-42-189.png
+DIFFERENT,0,0,42:189,p,fontSize,60,24,"Font size mismatch: expected 60px, got 24px",artifacts/issue-shots/issue-42-189.png
+DIFFERENT,Customer Tickets,Customer Tickets,5:391,p,width,1050,841,"Width mismatch: expected 1050px, got 841px",artifacts/issue-shots/issue-5-391.png
+DIFFERENT,Customer Tickets,Customer Tickets,5:391,p,height,26,40,"Height mismatch: expected 26px, got 40px",artifacts/issue-shots/issue-5-391.png
+DIFFERENT,Customer Tickets,Customer Tickets,5:391,p,fontSize,24,36,"Font size mismatch: expected 24px, got 36px",artifacts/issue-shots/issue-5-391.png
+DIFFERENT,Login Issues - Can't Access Account,Login Issues - Can't Access Account,5:399,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Login Issues - Can't Access Account,Login Issues - Can't Access Account,5:399,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:403,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-403.png
+DIFFERENT,Open,Open,5:403,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-403.png
+DIFFERENT,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,5:405,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-405.png
+DIFFERENT,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,5:405,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-405.png
+DIFFERENT,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,Customer is unable to log in to their account. They've tried resetting their password multiple times but still...,5:405,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-405.png
+DIFFERENT,#1001,#1001,5:407,p,width,41,38.46875,"Width mismatch: expected 41px, got 38.46875px",artifacts/issue-shots/issue-5-407.png
+DIFFERENT,#1001,#1001,5:407,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-407.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,5:408,,,,,Text exists in Figma but not found on page,
+DIFFERENT,John Smith,John Smith,5:413,p,width,75,68.4375,"Width mismatch: expected 75px, got 68.4375px",artifacts/issue-shots/issue-5-413.png
+DIFFERENT,John Smith,John Smith,5:413,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-413.png
+DIFFERENT,1/15/2024,1/15/2024,5:417,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-5-417.png
+DIFFERENT,1/15/2024,1/15/2024,5:417,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-417.png
+DIFFERENT,Unable to Download Invoice,Unable to Download Invoice,5:423,h2,width,331,182.25,"Width mismatch: expected 331px, got 182.25px",
+DIFFERENT,Unable to Download Invoice,Unable to Download Invoice,5:423,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+MISSING_IN_DOM,In- Progress,In- Progress,5:427,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Customer cannot download their January invoice from the billing section. The download button is...,Customer cannot download their January invoice from the billing section. The download button is...,5:429,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-429.png
+DIFFERENT,Customer cannot download their January invoice from the billing section. The download button is...,Customer cannot download their January invoice from the billing section. The download button is...,5:429,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-429.png
+DIFFERENT,Customer cannot download their January invoice from the billing section. The download button is...,Customer cannot download their January invoice from the billing section. The download button is...,5:429,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-429.png
+DIFFERENT,#1003,#1003,5:431,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-431.png
+DIFFERENT,#1003,#1003,5:431,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-431.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,5:432,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Michael Brown,Michael Brown,5:437,p,width,97,91.171875,"Width mismatch: expected 97px, got 91.171875px",artifacts/issue-shots/issue-5-437.png
+DIFFERENT,Michael Brown,Michael Brown,5:437,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-437.png
+DIFFERENT,1/17/2024,1/17/2024,5:441,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-5-441.png
+DIFFERENT,1/17/2024,1/17/2024,5:441,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-441.png
+DIFFERENT,App Crash on Launch,App Crash on Launch,5:447,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,App Crash on Launch,App Crash on Launch,5:447,h2,height,22,27,"Height mismatch: expected 22px, got 27px",
+DIFFERENT,Open,Open,5:451,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-451.png
+DIFFERENT,Open,Open,5:451,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-451.png
+DIFFERENT,Customer reports that the mobile app crashes immediately upon opening on Android 13.,Customer reports that the mobile app crashes immediately upon opening on Android 13.,5:453,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-453.png
+DIFFERENT,Customer reports that the mobile app crashes immediately upon opening on Android 13.,Customer reports that the mobile app crashes immediately upon opening on Android 13.,5:453,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-453.png
+DIFFERENT,Customer reports that the mobile app crashes immediately upon opening on Android 13.,Customer reports that the mobile app crashes immediately upon opening on Android 13.,5:453,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-453.png
+DIFFERENT,#1005,#1005,5:455,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-455.png
+DIFFERENT,#1005,#1005,5:455,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-455.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,5:456,,,,,Text exists in Figma but not found on page,
+DIFFERENT,David Wilson,David Wilson,5:461,p,width,86,81.046875,"Width mismatch: expected 86px, got 81.046875px",artifacts/issue-shots/issue-5-461.png
+DIFFERENT,David Wilson,David Wilson,5:461,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-461.png
+DIFFERENT,1/19/2024,1/19/2024,5:465,p,width,67,95.75,"Width mismatch: expected 67px, got 95.75px",artifacts/issue-shots/issue-5-465.png
+DIFFERENT,1/19/2024,1/19/2024,5:465,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-465.png
+DIFFERENT,Two-Factor Authentication Issue,Two-Factor Authentication Issue,5:471,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Two-Factor Authentication Issue,Two-Factor Authentication Issue,5:471,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:475,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-475.png
+DIFFERENT,Open,Open,5:475,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-475.png
+DIFFERENT,Customer is not receiving 2FA codes on their registered phone number.,Customer is not receiving 2FA codes on their registered phone number.,5:477,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-477.png
+DIFFERENT,Customer is not receiving 2FA codes on their registered phone number.,Customer is not receiving 2FA codes on their registered phone number.,5:477,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-477.png
+DIFFERENT,Customer is not receiving 2FA codes on their registered phone number.,Customer is not receiving 2FA codes on their registered phone number.,5:477,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-477.png
+DIFFERENT,#1007,#1007,5:479,p,width,42,38.46875,"Width mismatch: expected 42px, got 38.46875px",artifacts/issue-shots/issue-5-479.png
+DIFFERENT,#1007,#1007,5:479,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-479.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,5:480,,,,,Text exists in Figma but not found on page,
+DIFFERENT,James Anderson,James Anderson,5:485,p,width,111,100.734375,"Width mismatch: expected 111px, got 100.734375px",artifacts/issue-shots/issue-5-485.png
+DIFFERENT,James Anderson,James Anderson,5:485,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-485.png
+DIFFERENT,1/21/2024,1/21/2024,5:489,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-5-489.png
+DIFFERENT,1/21/2024,1/21/2024,5:489,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-489.png
+DIFFERENT,Subscription Auto-Renewal,Subscription Auto-Renewal,5:495,h2,width,331,182.25,"Width mismatch: expected 331px, got 182.25px",
+DIFFERENT,Subscription Auto-Renewal,Subscription Auto-Renewal,5:495,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+MISSING_IN_DOM,In- Progress,In- Progress,5:499,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,5:501,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-501.png
+DIFFERENT,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,5:501,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-501.png
+DIFFERENT,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,Customer wants to enable auto-renewal for their subscription but the toggle is disabled.,5:501,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-501.png
+DIFFERENT,#1009,#1009,5:503,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-503.png
+DIFFERENT,#1009,#1009,5:503,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-503.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,5:504,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Liam Thomas,Liam Thomas,5:509,p,width,89,81.59375,"Width mismatch: expected 89px, got 81.59375px",artifacts/issue-shots/issue-5-509.png
+DIFFERENT,Liam Thomas,Liam Thomas,5:509,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-509.png
+DIFFERENT,1/17/2024,1/17/2024,5:513,p,width,66,95.75,"Width mismatch: expected 66px, got 95.75px",artifacts/issue-shots/issue-5-513.png
+DIFFERENT,1/17/2024,1/17/2024,5:513,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-513.png
+DIFFERENT,Payment Failed - Card Declined,Payment Failed - Card Declined,5:520,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Payment Failed - Card Declined,Payment Failed - Card Declined,5:520,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:524,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-524.png
+DIFFERENT,Open,Open,5:524,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-524.png
+DIFFERENT,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,5:526,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-526.png
+DIFFERENT,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,5:526,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-526.png
+DIFFERENT,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.,5:526,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-526.png
+DIFFERENT,#1002,#1002,5:528,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-528.png
+DIFFERENT,#1002,#1002,5:528,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-528.png
+MISSING_IN_DOM,HIGH PRIORITY,HIGH PRIORITY,5:529,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Sarah Johnson,Sarah Johnson,5:534,p,width,99,89.421875,"Width mismatch: expected 99px, got 89.421875px",artifacts/issue-shots/issue-5-534.png
+DIFFERENT,Sarah Johnson,Sarah Johnson,5:534,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-534.png
+DIFFERENT,1/16/2024,1/16/2024,5:538,p,width,67,95.75,"Width mismatch: expected 67px, got 95.75px",artifacts/issue-shots/issue-5-538.png
+DIFFERENT,1/16/2024,1/16/2024,5:538,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-538.png
+DIFFERENT,Incorrect Billing Address,Incorrect Billing Address,5:544,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Incorrect Billing Address,Incorrect Billing Address,5:544,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:548,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-548.png
+DIFFERENT,Open,Open,5:548,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-548.png
+DIFFERENT,Customer’s billing address shows a different city. They updated it but it still displays the old one.,Customer’s billing address shows a different city. They updated it but it still displays the old one.,5:550,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-550.png
+DIFFERENT,Customer’s billing address shows a different city. They updated it but it still displays the old one.,Customer’s billing address shows a different city. They updated it but it still displays the old one.,5:550,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-550.png
+DIFFERENT,Customer’s billing address shows a different city. They updated it but it still displays the old one.,Customer’s billing address shows a different city. They updated it but it still displays the old one.,5:550,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-550.png
+DIFFERENT,#1004,#1004,5:552,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-552.png
+DIFFERENT,#1004,#1004,5:552,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-552.png
+MISSING_IN_DOM,LOW PRIORITY,LOW PRIORITY,5:553,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Emily Davis,Emily Davis,5:558,p,width,76,69.515625,"Width mismatch: expected 76px, got 69.515625px",artifacts/issue-shots/issue-5-558.png
+DIFFERENT,Emily Davis,Emily Davis,5:558,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-558.png
+DIFFERENT,1/18/2024,1/18/2024,5:562,p,width,67,95.75,"Width mismatch: expected 67px, got 95.75px",artifacts/issue-shots/issue-5-562.png
+DIFFERENT,1/18/2024,1/18/2024,5:562,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-562.png
+DIFFERENT,Refund Not Processed,Refund Not Processed,5:568,h2,width,331,182.25,"Width mismatch: expected 331px, got 182.25px",
+DIFFERENT,Refund Not Processed,Refund Not Processed,5:568,h2,height,22,27,"Height mismatch: expected 22px, got 27px",
+MISSING_IN_DOM,In- Progress,In- Progress,5:572,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Customer requested a refund two weeks ago but has not received the amount yet.,Customer requested a refund two weeks ago but has not received the amount yet.,5:574,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-574.png
+DIFFERENT,Customer requested a refund two weeks ago but has not received the amount yet.,Customer requested a refund two weeks ago but has not received the amount yet.,5:574,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-574.png
+DIFFERENT,Customer requested a refund two weeks ago but has not received the amount yet.,Customer requested a refund two weeks ago but has not received the amount yet.,5:574,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-574.png
+DIFFERENT,#1006,#1006,5:576,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-576.png
+DIFFERENT,#1006,#1006,5:576,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-576.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,5:577,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Sophia Taylor,Sophia Taylor,5:582,p,width,90,82.265625,"Width mismatch: expected 90px, got 82.265625px",artifacts/issue-shots/issue-5-582.png
+DIFFERENT,Sophia Taylor,Sophia Taylor,5:582,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-582.png
+DIFFERENT,1/20/2024,1/20/2024,5:586,p,width,69,95.75,"Width mismatch: expected 69px, got 95.75px",artifacts/issue-shots/issue-5-586.png
+DIFFERENT,1/20/2024,1/20/2024,5:586,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-586.png
+DIFFERENT,Unable to Update Profile Picture,Unable to Update Profile Picture,5:592,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Unable to Update Profile Picture,Unable to Update Profile Picture,5:592,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:596,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-596.png
+DIFFERENT,Open,Open,5:596,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-596.png
+DIFFERENT,Customer tries to upload a new profile picture but gets 'Upload failed' error.,Customer tries to upload a new profile picture but gets 'Upload failed' error.,5:598,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-598.png
+DIFFERENT,Customer tries to upload a new profile picture but gets 'Upload failed' error.,Customer tries to upload a new profile picture but gets 'Upload failed' error.,5:598,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-598.png
+DIFFERENT,Customer tries to upload a new profile picture but gets 'Upload failed' error.,Customer tries to upload a new profile picture but gets 'Upload failed' error.,5:598,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-598.png
+DIFFERENT,#1008,#1008,5:600,p,width,43,38.46875,"Width mismatch: expected 43px, got 38.46875px",artifacts/issue-shots/issue-5-600.png
+DIFFERENT,#1008,#1008,5:600,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-600.png
+MISSING_IN_DOM,LOW PRIORITY,LOW PRIORITY,5:601,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Olivia Martinez,Olivia Martinez,5:606,p,width,99,92.671875,"Width mismatch: expected 99px, got 92.671875px",artifacts/issue-shots/issue-5-606.png
+DIFFERENT,Olivia Martinez,Olivia Martinez,5:606,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-606.png
+DIFFERENT,1/22/2024,1/22/2024,5:610,p,width,68,95.75,"Width mismatch: expected 68px, got 95.75px",artifacts/issue-shots/issue-5-610.png
+DIFFERENT,1/22/2024,1/22/2024,5:610,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-610.png
+DIFFERENT,Missing Order Confirmation Email,Missing Order Confirmation Email,5:616,h2,width,383,182.25,"Width mismatch: expected 383px, got 182.25px",
+DIFFERENT,Missing Order Confirmation Email,Missing Order Confirmation Email,5:616,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+DIFFERENT,Open,Open,5:620,p,width,42,58.03125,"Width mismatch: expected 42px, got 58.03125px",artifacts/issue-shots/issue-5-620.png
+DIFFERENT,Open,Open,5:620,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-620.png
+DIFFERENT,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,5:622,p,width,481,364.5,"Width mismatch: expected 481px, got 364.5px",artifacts/issue-shots/issue-5-622.png
+DIFFERENT,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,5:622,p,height,36,42,"Height mismatch: expected 36px, got 42px",artifacts/issue-shots/issue-5-622.png
+DIFFERENT,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,Customer placed an order but didn't receive a confirmation email even though payment succeeded.,5:622,p,fontSize,16,14,"Font size mismatch: expected 16px, got 14px",artifacts/issue-shots/issue-5-622.png
+DIFFERENT,#1010,#1010,5:624,p,width,41,38.46875,"Width mismatch: expected 41px, got 38.46875px",artifacts/issue-shots/issue-5-624.png
+DIFFERENT,#1010,#1010,5:624,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-624.png
+MISSING_IN_DOM,MEDIUM PRIORITY,MEDIUM PRIORITY,5:625,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Isabella Garcia,Isabella Garcia,5:630,p,width,97,88.65625,"Width mismatch: expected 97px, got 88.65625px",artifacts/issue-shots/issue-5-630.png
+DIFFERENT,Isabella Garcia,Isabella Garcia,5:630,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-630.png
+DIFFERENT,1/24/2024,1/24/2024,5:634,p,width,69,95.75,"Width mismatch: expected 69px, got 95.75px",artifacts/issue-shots/issue-5-634.png
+DIFFERENT,1/24/2024,1/24/2024,5:634,p,height,22,24,"Height mismatch: expected 22px, got 24px",artifacts/issue-shots/issue-5-634.png
+DIFFERENT,Task Status,Task Status,5:638,p,width,358,267,"Width mismatch: expected 358px, got 267px",artifacts/issue-shots/issue-5-638.png
+DIFFERENT,Task Status,Task Status,5:638,p,height,26,40,"Height mismatch: expected 26px, got 40px",artifacts/issue-shots/issue-5-638.png
+DIFFERENT,Task Status,Task Status,5:638,p,fontSize,24,36,"Font size mismatch: expected 24px, got 36px",artifacts/issue-shots/issue-5-638.png
+DIFFERENT,Payment Failed - Card Declined,Payment Failed - Card Declined,5:644,h2,width,326,182.25,"Width mismatch: expected 326px, got 182.25px",
+DIFFERENT,Payment Failed - Card Declined,Payment Failed - Card Declined,5:644,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
+MISSING_IN_DOM,Complete,Enroll Now_2,5:646,,,,,Text exists in Figma but not found on page,
+DIFFERENT,Resolved Task,Resolved Task,5:662,p,width,358,267,"Width mismatch: expected 358px, got 267px",artifacts/issue-shots/issue-5-662.png
+DIFFERENT,Resolved Task,Resolved Task,5:662,p,height,26,40,"Height mismatch: expected 26px, got 40px",artifacts/issue-shots/issue-5-662.png
+DIFFERENT,Resolved Task,Resolved Task,5:662,p,fontSize,24,36,"Font size mismatch: expected 24px, got 36px",artifacts/issue-shots/issue-5-662.png
+DIFFERENT,Incorrect Billing Address,Incorrect Billing Address,5:668,h2,width,326,182.25,"Width mismatch: expected 326px, got 182.25px",
+DIFFERENT,Incorrect Billing Address,Incorrect Billing Address,5:668,h2,height,22,54,"Height mismatch: expected 22px, got 54px",
